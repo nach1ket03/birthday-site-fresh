@@ -1,16 +1,22 @@
 ---
-
+import Layout from '../layouts/Layout.astro';
+import SoftDivider from '../components/SoftDivider.astro';
 ---
 
-<html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<meta name="viewport" content="width=device-width" />
-		<meta name="generator" content={Astro.generator} />
-		<title>Astro</title>
-	</head>
-	<body>
-		<h1>Astro</h1>
-	</body>
-</html>
+<Layout title="Thirty Days">
+  <main style="text-align: center;">
+	
+    <h1 class="stagger-1">Welcome</h1>
+    <h2 class="stagger-2" style="font-size: 1.4rem; font-weight: normal; opacity: 0.8;">
+      A journey of thirty days.
+    </h2>
+    <div class="stagger-3">
+        <SoftDivider />
+        <a href="/days" class="btn-primary" style="padding: 12px 40px; font-size: 1.1rem; text-decoration: none;">
+            Begin
+        </a>
+		
+    </div>
+	
+  </main>
+</Layout>

@@ -1,0 +1,18 @@
+---
+import Layout from '../layouts/Layout.astro';
+import RevealFeed from '../components/RevealFeed';
+---
+
+<Layout title="The Reveal">
+  <main>
+    <div style={{ marginBottom: 40, textAlign: 'center' }}>
+      <h1>The Reveal</h1>
+    </div>
+
+    <RevealFeed client:only="react" />
+
+    <div style="margin-top: 40px; text-align: center;">
+        <a href="/" style="font-size: 0.9rem; opacity: 0.6;">&larr; Home</a>
+    </div>
+  </main>
+</Layout>

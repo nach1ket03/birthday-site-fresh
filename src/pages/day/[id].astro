@@ -1,0 +1,28 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { stories } from '../../data/stories';
+import GuessInput from '../../components/GuessInput';
+
+export function getStaticPaths() {
+  return Array.from({ length: 30 }, (_, i) => ({ params: { id: (i + 1).toString() } }));
+}
+
+const { id } = Astro.params;
+const story = stories[id] || { text: "Coming soon...", hint: "" };
+---
+
+<Layout title={`Day ${id}`}>
+  <main>
+    <div style="margin-bottom: 24px;">
+        <a href="/days" style="font-size: 0.9rem; opacity: 0.6;">&larr; Back</a>
+    </div>
+    
+    <h1 style="font-size: 1.8rem;">Day {id}</h1>
+    
+    <article style="font-size: 1.2rem; line-height: 1.6; white-space: pre-line; margin-top: 24px;">
+        {story.text}
+    </article>
+
+    <GuessInput client:visible dayId={id} hint={story.hint} />
+  </main>
+</Layout>

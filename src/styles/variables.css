@@ -1,0 +1,24 @@
+:root {
+  /* Colors */
+  --bg-color: #faf7f2;
+  --text-main: #1e1e1e;
+  --text-muted: #6f6f6f;
+  --text-light: #8e8e8e;
+  
+  --accent: #b89b72;
+  --accent-subtle: rgba(184, 155, 114, 0.15);
+
+  /* Glassmorphism - Crucial for the "Crystal" look */
+  --glass-bg: rgba(255, 255, 255, 0.4);
+  --glass-border: rgba(255, 255, 255, 0.6);
+  --glass-shadow: 0 8px 32px rgba(0, 0, 0, 0.04);
+  
+  /* Fonts */
+  --font-body: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --font-heading: Georgia, "Times New Roman", serif;
+
+  /* Layout */
+  --max-width: 520px;
+  --radius-md: 12px;
+  --radius-lg: 24px;
+}

@@ -1,0 +1,56 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { getDayStatus, isRevealUnlocked } from '../lib/dates';
+
+const DAYS = Array.from({ length: 30 }, (_, i) => i + 1);
+const isUnlocked = isRevealUnlocked();
+---
+
+<Layout title="Calendar">
+  <main>
+    <h1 style="text-align: center;">Days</h1>
+    
+    <div style="display: grid; grid-template-columns: repeat(5, 1fr); gap: 16px; margin-top: 32px;">
+      {DAYS.map((day) => {
+        const isOpen = getDayStatus(day);
+        return (
+          <div style={{ textAlign: 'center' }}>
+            {isOpen ? (
+              <a href={`/day/${day}`} style={{
+                display: 'flex', alignItems: 'center', justifyContent: 'center',
+                width: 40, height: 40, borderRadius: '50%', border: '1px solid #ccc',
+                margin: 'auto', color: 'var(--text-main)', textDecoration: 'none'
+              }}>
+                {day}
+              </a>
+            ) : (
+               <div style={{
+                width: 40, height: 40, borderRadius: '50%', border: '1px solid #eee',
+                margin: 'auto', color: '#ccc', display: 'flex', alignItems: 'center', justifyContent: 'center'
+              }}>
+                {day}
+              </div>
+            )}
+          </div>
+        );
+      })}
+    </div>
+
+    <div style="text-align: center; margin-top: 60px;">
+        <a href={isUnlocked ? "/reveal" : "#"} style={{
+            opacity: isUnlocked ? 1 : 0.5,
+            cursor: isUnlocked ? 'pointer' : 'default',
+            color: isUnlocked ? 'var(--accent)' : 'var(--text-muted)',
+            fontFamily: 'var(--font-heading)',
+            textDecoration: 'none',
+            fontSize: '1.1rem'
+        }}>
+            {isUnlocked ? "The Reveal →" : "Locked until the end"}
+        </a>
+    </div>
+
+    <div style="text-align: center; margin-top: 32px;">
+        <a href="/" style="font-size: 0.9rem; opacity: 0.6;">Back</a>
+    </div>
+  </main>
+</Layout>
