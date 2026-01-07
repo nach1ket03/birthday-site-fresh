@@ -1,0 +1,15 @@
+---
+import Layout from '../layouts/Layout.astro';
+import AdminPanel from '../components/AdminPanel';
+---
+
+<Layout title="Admin">
+  <main>
+    <h1 style="text-align: center; margin-bottom: 40px; font-size: 2rem;">Secret Admin</h1>
+    <AdminPanel client:only="react" />
+    
+    <div style="text-align: center; margin-top: 40px;">
+        <a href="/" style="font-size: 0.9rem; opacity: 0.5;">Back to Site</a>
+    </div>
+  </main>
+</Layout>

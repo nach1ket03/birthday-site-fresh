@@ -7,27 +7,52 @@ const isUnlocked = isRevealUnlocked();
 ---
 
 <Layout title="Calendar">
-  <main>
-    <h1 style="text-align: center;">Days</h1>
+  <main style="text-align: center;">
     
-    <div style="display: grid; grid-template-columns: repeat(5, 1fr); gap: 16px; margin-top: 32px;">
+    <div class="stagger-1">
+      <h1 style="font-size: 2.5rem; margin-bottom: 8px;">The Days</h1>
+      <p style="font-size: 0.9rem; opacity: 0.6; margin-bottom: 40px; letter-spacing: 0.05em; text-transform: uppercase;">
+        One by one
+      </p>
+    </div>
+    
+    <div class="stagger-2" style="
+      display: grid; 
+      grid-template-columns: repeat(5, 1fr); 
+      gap: 16px; 
+      margin-bottom: 48px;
+    ">
       {DAYS.map((day) => {
         const isOpen = getDayStatus(day);
         return (
-          <div style={{ textAlign: 'center' }}>
+          <div style="display: flex; justify-content: center;">
             {isOpen ? (
-              <a href={`/day/${day}`} style={{
-                display: 'flex', alignItems: 'center', justifyContent: 'center',
-                width: 40, height: 40, borderRadius: '50%', border: '1px solid #ccc',
-                margin: 'auto', color: 'var(--text-main)', textDecoration: 'none'
-              }}>
+              <a href={`/day/${day}`} style="
+                width: 48px; height: 48px; 
+                display: flex; align-items: center; justify-content: center;
+                border-radius: 50%;
+                background: rgba(255,255,255,0.4);
+                border: 1px solid rgba(255,255,255,0.6);
+                color: var(--text-main);
+                font-family: var(--font-heading);
+                font-size: 1.1rem;
+                box-shadow: 0 4px 12px rgba(0,0,0,0.03);
+                transition: all 0.3s ease;
+              " onmouseover="this.style.transform='scale(1.1)'; this.style.background='rgba(255,255,255,0.8)'" 
+                 onmouseout="this.style.transform='scale(1)'; this.style.background='rgba(255,255,255,0.4)'">
                 {day}
               </a>
             ) : (
-               <div style={{
-                width: 40, height: 40, borderRadius: '50%', border: '1px solid #eee',
-                margin: 'auto', color: '#ccc', display: 'flex', alignItems: 'center', justifyContent: 'center'
-              }}>
+               <div style="
+                width: 48px; height: 48px; 
+                display: flex; align-items: center; justify-content: center;
+                border-radius: 50%;
+                border: 1px solid rgba(0,0,0,0.05);
+                color: var(--text-muted);
+                opacity: 0.3;
+                font-size: 0.9rem;
+                cursor: default;
+              ">
                 {day}
               </div>
             )}
@@ -36,21 +61,24 @@ const isUnlocked = isRevealUnlocked();
       })}
     </div>
 
-    <div style="text-align: center; margin-top: 60px;">
-        <a href={isUnlocked ? "/reveal" : "#"} style={{
-            opacity: isUnlocked ? 1 : 0.5,
-            cursor: isUnlocked ? 'pointer' : 'default',
-            color: isUnlocked ? 'var(--accent)' : 'var(--text-muted)',
-            fontFamily: 'var(--font-heading)',
-            textDecoration: 'none',
-            fontSize: '1.1rem'
-        }}>
-            {isUnlocked ? "The Reveal →" : "Locked until the end"}
+    <div class="stagger-3">
+        <div style="width: 100%; height: 1px; background: linear-gradient(90deg, transparent, rgba(0,0,0,0.1), transparent); margin-bottom: 32px;"></div>
+        
+        <a href={isUnlocked ? "/reveal" : "#"} style={`
+            font-family: var(--font-heading);
+            font-size: 1.2rem;
+            color: ${isUnlocked ? 'var(--accent)' : 'var(--text-muted)'};
+            opacity: ${isUnlocked ? 1 : 0.5};
+            pointer-events: ${isUnlocked ? 'auto' : 'none'};
+            transition: opacity 0.3s;
+        `}>
+            {isUnlocked ? "Open The Reveal →" : "Locked until the end"}
         </a>
     </div>
-
-    <div style="text-align: center; margin-top: 32px;">
-        <a href="/" style="font-size: 0.9rem; opacity: 0.6;">Back</a>
+    
+    <div style="margin-top: 40px; opacity: 0.5;">
+        <a href="/" style="font-size: 0.8rem; letter-spacing: 0.1em; text-transform: uppercase;">Back Home</a>
     </div>
+
   </main>
 </Layout>

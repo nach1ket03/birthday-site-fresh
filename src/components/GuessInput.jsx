@@ -25,30 +25,44 @@ export default function GuessInput({ dayId, hint }) {
   }, [dayId]);
 
   return (
-    <div style={{ marginTop: 40, padding: 20, background: 'rgba(0,0,0,0.03)', borderRadius: 12 }}>
-      <p style={{ fontSize: '0.9rem', opacity: 0.7, fontStyle: 'italic', marginBottom: 12 }}>
-        {hint || "Write a note..."}
+    <div style={{ marginTop: 20 }}>
+      <p style={{ 
+        fontSize: '0.85rem', 
+        color: 'var(--accent)', 
+        textTransform: 'uppercase', 
+        letterSpacing: '0.1em',
+        marginBottom: 16 
+      }}>
+        {hint || "Reflection"}
       </p>
+
       <textarea
         className="input-field"
-        placeholder={user ? "Type here..." : "Connecting..."}
+        placeholder={user ? "Write your thought here..." : "Connecting..."}
         value={guess}
         onChange={(e) => setGuess(e.target.value)}
         disabled={saved || !user}
         rows={1}
+        style={{
+            minHeight: '40px',
+            marginBottom: '24px'
+        }}
       />
-      {!saved && (
-        <div style={{ textAlign: 'right', marginTop: 12 }}>
+
+      <div style={{ display: 'flex', justifyContent: 'flex-end', alignItems: 'center', gap: '16px' }}>
+        {saved && <span style={{ fontSize: '0.85rem', opacity: 0.5, fontStyle: 'italic' }}>Saved</span>}
+        
+        {!saved && (
           <button 
-            className="btn-primary" 
+            className="btn-primary"
+            style={{ padding: '10px 28px', fontSize: '0.85rem' }} 
             disabled={!user || !guess.trim()}
             onClick={() => user && saveGuess(user.uid, dayId, guess).then(() => setSaved(true))}
           >
-            Save
+            Save Note
           </button>
-        </div>
-      )}
-      {saved && <p style={{ fontSize: '0.8rem', opacity: 0.6, marginTop: 8 }}>Saved.</p>}
+        )}
+      </div>
     </div>
   );
 }

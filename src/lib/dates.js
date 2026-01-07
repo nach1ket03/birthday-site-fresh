@@ -1,5 +1,5 @@
 // Set this to your start date (e.g., Jan 1, 2025)
-export const START_DATE = new Date(2025, 0, 1); 
+export const START_DATE = new Date(2026, 0, 1); 
 
 export function getDayStatus(dayNumber) {
   const today = new Date();

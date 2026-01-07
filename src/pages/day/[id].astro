@@ -8,21 +8,31 @@ export function getStaticPaths() {
 }
 
 const { id } = Astro.params;
-const story = stories[id] || { text: "Coming soon...", hint: "" };
+const story = stories[id] || { text: "The ink is still wet on this page.", hint: "" };
 ---
 
 <Layout title={`Day ${id}`}>
   <main>
-    <div style="margin-bottom: 24px;">
-        <a href="/days" style="font-size: 0.9rem; opacity: 0.6;">&larr; Back</a>
+    <div class="stagger-1" style="display: flex; justify-content: space-between; align-items: baseline; border-bottom: 1px solid rgba(0,0,0,0.05); padding-bottom: 24px; margin-bottom: 40px;">
+        <span style="font-family: var(--font-body); text-transform: uppercase; letter-spacing: 0.15em; font-size: 0.85rem; color: var(--accent);">
+            Day {id}
+        </span>
+        <a href="/days" style="font-size: 1.5rem; opacity: 0.4; line-height: 0.5;">×</a>
     </div>
     
-    <h1 style="font-size: 1.8rem;">Day {id}</h1>
-    
-    <article style="font-size: 1.2rem; line-height: 1.6; white-space: pre-line; margin-top: 24px;">
+    <article class="stagger-2" style="
+        font-family: var(--font-heading);
+        font-size: 1.35rem;
+        line-height: 1.8;
+        color: var(--text-main);
+        white-space: pre-line;
+        margin-bottom: 64px;
+    ">
         {story.text}
     </article>
 
-    <GuessInput client:visible dayId={id} hint={story.hint} />
+    <div class="stagger-3">
+        <GuessInput client:visible dayId={id} hint={story.hint} />
+    </div>
   </main>
 </Layout>
