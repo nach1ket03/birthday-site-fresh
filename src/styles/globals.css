@@ -1,80 +1,166 @@
 @import './variables.css';
 
+/* 1. Base Setup */
 body {
     margin: 0;
     min-height: 100vh;
     background-color: var(--bg-color);
-    /* Subtle background grain/gradient */
-    background-image:
-        radial-gradient(at 0% 0%, hsla(253, 16%, 7%, 0) 0, transparent 50%),
-        radial-gradient(at 50% 0%, hsla(225, 39%, 30%, 0) 0, transparent 50%),
-        radial-gradient(at 100% 0%, hsla(339, 49%, 30%, 0) 0, transparent 50%);
-    background-attachment: fixed;
     color: var(--text-main);
     font-family: var(--font-body);
+    font-weight: 300; /* Light & airy */
+    overflow-x: hidden;
 }
 
 #root {
     display: flex;
     justify-content: center;
-    padding: 40px 20px;
+    padding: 60px 20px;
     min-height: 100vh;
     box-sizing: border-box;
+    position: relative;
+    z-index: 10;
 }
 
+/* 2. The Card (Glass Container) */
 main {
     width: 100%;
     max-width: var(--max-width);
     background: var(--glass-bg);
-    backdrop-filter: blur(12px);
-    -webkit-backdrop-filter: blur(12px);
+    backdrop-filter: blur(20px); /* Frosted glass */
+    -webkit-backdrop-filter: blur(20px);
     border: 1px solid var(--glass-border);
     box-shadow: var(--glass-shadow);
     border-radius: var(--radius-lg);
-    padding: 48px 40px;
-    animation: floatIn 0.8s ease-out forwards;
+    padding: 56px 48px;
+    
+    /* Smooth Entrance */
+    animation: fadeUp 1s cubic-bezier(0.2, 0.8, 0.2, 1) forwards;
+    transform: translateY(20px);
+    opacity: 0;
 }
 
-h1, h2, h3 { font-family: var(--font-heading); color: var(--text-main); margin-top: 0; }
-h1 { font-size: 2.5rem; letter-spacing: -0.02em; }
-a { text-decoration: none; color: inherit; transition: opacity 0.2s; }
+/* 3. Typography */
+h1, h2, h3 {
+    font-family: var(--font-heading);
+    color: var(--text-main);
+    margin: 0;
+    line-height: 1.1;
+}
 
-/* Buttons & Inputs */
+h1 {
+    font-size: 3rem;
+    font-weight: 400;
+    letter-spacing: -0.03em;
+    background: linear-gradient(180deg, #2a2a2a 0%, #4a4a4a 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+p, article {
+    line-height: 1.7;
+    font-size: 1.05rem;
+    color: var(--text-muted);
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+    transition: all 0.3s ease;
+}
+
+/* 4. Elegant Components */
+
+/* The "Soft Divider" */
+.soft-divider {
+    display: flex;
+    align-items: center;
+    gap: 24px;
+    opacity: 0.4;
+    margin: 40px 0;
+}
+.divider-line { flex: 1; height: 1px; background: linear-gradient(90deg, transparent, #000, transparent); }
+.divider-dot { width: 4px; height: 4px; transform: rotate(45deg); background: var(--accent); }
+
+/* The "Glow" Button */
 .btn-primary {
     background: var(--text-main);
     color: #fff;
-    padding: 10px 24px;
+    padding: 14px 36px;
     border-radius: 50px;
     border: none;
     cursor: pointer;
-    font-size: 0.9rem;
+    font-family: var(--font-body);
+    font-size: 0.95rem;
+    font-weight: 400;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.btn-primary:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 10px 25px -5px rgba(0,0,0,0.2);
+    background: #000;
 }
 
+/* Input Fields (Minimalist) */
 .input-field {
     width: 100%;
     border: none;
     border-bottom: 1px solid rgba(0,0,0,0.1);
     background: transparent;
-    padding: 12px 0;
+    padding: 16px 0;
     font-family: var(--font-heading);
-    font-size: 1.1rem;
+    font-size: 1.2rem;
+    color: var(--text-main);
     outline: none;
     resize: none;
+    transition: border-color 0.3s;
+}
+.input-field:focus {
+    border-color: var(--accent);
 }
 
-/* Utilities */
-.soft-divider {
-    display: flex;
-    align-items: center;
-    gap: 16px;
-    opacity: 0.6;
-    margin: 32px 0;
-}
-.divider-line { flex: 1; height: 1px; background: rgba(0,0,0,0.1); }
-.divider-dot { width: 4px; height: 4px; background: var(--accent); border-radius: 50%; }
+/* 5. Background Effects */
 
-/* Animations */
-@keyframes floatIn { from { opacity: 0; transform: translateY(20px); } to { opacity: 1; transform: translateY(0); } }
-.stagger-1 { animation: floatIn 0.8s 0.1s backwards; }
-.stagger-2 { animation: floatIn 0.8s 0.2s backwards; }
-.stagger-3 { animation: floatIn 0.8s 0.3s backwards; }
+/* Subtle Film Grain */
+.noise-overlay {
+    position: fixed;
+    top: 0; left: 0; width: 100%; height: 100%;
+    pointer-events: none;
+    z-index: 0;
+    opacity: 0.035;
+    background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.65' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)'/%3E%3C/svg%3E");
+}
+
+/* Moving Light Orb */
+.ambient-light {
+    position: fixed;
+    top: -20%;
+    left: -10%;
+    width: 80vw;
+    height: 80vw;
+    background: radial-gradient(circle, rgba(198, 168, 124, 0.08) 0%, transparent 70%);
+    filter: blur(80px);
+    z-index: 0;
+    animation: breathe 15s ease-in-out infinite alternate;
+}
+
+@keyframes breathe {
+    0% { transform: translate(0, 0) scale(1); }
+    100% { transform: translate(10%, 10%) scale(1.1); }
+}
+
+@keyframes fadeUp {
+    to { opacity: 1; transform: translateY(0); }
+}
+
+/* Stagger Animations */
+.stagger-1 { animation: fadeUp 1s 0.1s cubic-bezier(0.2,0.8,0.2,1) forwards; opacity: 0; transform: translateY(20px); }
+.stagger-2 { animation: fadeUp 1s 0.2s cubic-bezier(0.2,0.8,0.2,1) forwards; opacity: 0; transform: translateY(20px); }
+.stagger-3 { animation: fadeUp 1s 0.3s cubic-bezier(0.2,0.8,0.2,1) forwards; opacity: 0; transform: translateY(20px); }
+
+/* Mobile Polish */
+@media (max-width: 600px) {
+    main { padding: 40px 24px; }
+    h1 { font-size: 2.2rem; }
+}

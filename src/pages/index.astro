@@ -5,18 +5,29 @@ import SoftDivider from '../components/SoftDivider.astro';
 
 <Layout title="Thirty Days">
   <main style="text-align: center;">
-	
-    <h1 class="stagger-1">Welcome</h1>
-    <h2 class="stagger-2" style="font-size: 1.4rem; font-weight: normal; opacity: 0.8;">
-      A journey of thirty days.
-    </h2>
+    
+    <div class="stagger-1">
+      <h1 style="margin-bottom: 16px;">The Journey</h1>
+    </div>
+
+    <div class="stagger-2">
+      <h2 style="font-family: var(--font-body); font-size: 0.95rem; font-weight: 400; text-transform: uppercase; letter-spacing: 0.15em; color: var(--accent); margin-top: 12px;">
+        A Collection of Moments
+      </h2>
+    </div>
+
     <div class="stagger-3">
         <SoftDivider />
-        <a href="/days" class="btn-primary" style="padding: 12px 40px; font-size: 1.1rem; text-decoration: none;">
+        
+        <p style="margin-bottom: 48px; max-width: 80%; margin-left: auto; margin-right: auto;">
+            Thirty days. Thirty small pieces of a larger story.<br>
+            Take your time. There is no rush here.
+        </p>
+
+        <a href="/days" class="btn-primary" style="display: inline-block; text-decoration: none;">
             Begin
         </a>
-		
     </div>
-	
+
   </main>
 </Layout>
