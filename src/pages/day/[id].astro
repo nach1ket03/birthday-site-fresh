@@ -32,7 +32,7 @@ const story = stories[id] || { text: "The ink is still wet on this page.", hint:
     </article>
 
     <div class="stagger-3">
-        <GuessInput client:visible dayId={id} hint={story.hint} />
+        <GuessInput client:load dayId={id} hint={story.hint} />
     </div>
   </main>
 </Layout>
