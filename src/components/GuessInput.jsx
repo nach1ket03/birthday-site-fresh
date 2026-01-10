@@ -26,12 +26,12 @@ export default function GuessInput({ dayId, hint }) {
 
   return (
     <div style={{ marginTop: 20 }}>
-      <p style={{ 
-        fontSize: '0.85rem', 
-        color: 'var(--accent)', 
-        textTransform: 'uppercase', 
+      <p style={{
+        fontSize: '0.85rem',
+        color: 'var(--accent)',
+        textTransform: 'uppercase',
         letterSpacing: '0.1em',
-        marginBottom: 16 
+        marginBottom: 16,
       }}>
         {hint || "Reflection"}
       </p>
@@ -44,18 +44,18 @@ export default function GuessInput({ dayId, hint }) {
         disabled={saved || !user}
         rows={1}
         style={{
-            minHeight: '40px',
-            marginBottom: '24px'
+          minHeight: '40px',
+          marginBottom: '24px'
         }}
       />
 
       <div style={{ display: 'flex', justifyContent: 'flex-end', alignItems: 'center', gap: '16px' }}>
         {saved && <span style={{ fontSize: '0.85rem', opacity: 0.5, fontStyle: 'italic' }}>Saved</span>}
-        
+
         {!saved && (
-          <button 
+          <button
             className="btn-primary"
-            style={{ padding: '10px 28px', fontSize: '0.85rem' }} 
+            style={{ padding: '10px 28px', fontSize: '0.85rem' }}
             disabled={!user || !guess.trim()}
             onClick={() => user && saveGuess(user.uid, dayId, guess).then(() => setSaved(true))}
           >

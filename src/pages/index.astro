@@ -1,6 +1,7 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import SoftDivider from '../components/SoftDivider.astro';
+import Countdown from '../components/Countdown.jsx';
 ---
 
 <Layout title="Thirty Days">
@@ -18,11 +19,27 @@ import SoftDivider from '../components/SoftDivider.astro';
 
     <div class="stagger-3">
         <SoftDivider />
-        
-        <p style="margin-bottom: 48px; max-width: 80%; margin-left: auto; margin-right: auto;">
-            Thirty days. Thirty small pieces of a larger story.<br>
-            Take your time. There is no rush here.
+    
+        <p style="margin-bottom: 40px; max-width: 80%; margin-left: auto; margin-right: auto;">
+            Thirty days.
+            Thirty small pieces of a larger story.<br>
+            Take your time.
+            There is no rush here.
         </p>
+
+        <div style="margin-bottom: 48px;">
+            <Countdown client:load />
+            <p style="
+                font-family: var(--font-heading); 
+                font-style: italic; 
+                color: var(--text-muted); 
+                margin-top: 16px; 
+                font-size: 1rem;
+                opacity: 0.8;
+            ">
+                until the celebration
+            </p>
+        </div>
 
         <a href="/days" class="btn-primary" style="display: inline-block; text-decoration: none;">
             Begin
