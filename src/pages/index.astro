@@ -1,49 +1,80 @@
 ---
-import Layout from '../layouts/Layout.astro';
-import SoftDivider from '../components/SoftDivider.astro';
-import Countdown from '../components/Countdown.jsx';
+import Layout from "../layouts/Layout.astro";
+import SoftDivider from "../components/SoftDivider.astro";
+import Countdown from "../components/Countdown.jsx";
 ---
 
 <Layout title="Thirty Days">
   <main style="text-align: center;">
     
     <div class="stagger-1">
-      <h1 style="margin-bottom: 16px;">The Journey</h1>
+      <h1 style="margin-bottom: 16px;">Prelude
+</h1>
     </div>
 
     <div class="stagger-2">
-      <h2 style="font-family: var(--font-body); font-size: 0.95rem; font-weight: 400; text-transform: uppercase; letter-spacing: 0.15em; color: var(--accent); margin-top: 12px;">
-        A Collection of Moments
+      <h2 style="
+        font-family: var(--font-body); 
+        font-size: 0.9rem; 
+        font-weight: 400; 
+        text-transform: uppercase; 
+        letter-spacing: 0.2em; 
+        color: var(--accent); 
+        margin-top: 12px;
+      ">
+        Thirty days before your birthday
       </h2>
     </div>
 
     <div class="stagger-3">
-        <SoftDivider />
-    
-        <p style="margin-bottom: 40px; max-width: 80%; margin-left: auto; margin-right: auto;">
-            Thirty days.
-            Thirty small pieces of a larger story.<br>
-            Take your time.
-            There is no rush here.
+      <SoftDivider />
+
+      <div style="margin-bottom: 40px;">
+        <p style="
+          font-family: var(--font-heading);
+          font-style: italic;
+          font-size: 1.1rem;
+          color: var(--text-muted);
+          margin: 0 0 12px 0;
+        ">
+          A pause before your birthday.
         </p>
 
-        <div style="margin-bottom: 48px;">
-            <Countdown client:load />
-            <p style="
-                font-family: var(--font-heading); 
-                font-style: italic; 
-                color: var(--text-muted); 
-                margin-top: 16px; 
-                font-size: 1rem;
-                opacity: 0.8;
-            ">
-                until the celebration
-            </p>
-        </div>
+        <p style="
+          font-family: var(--font-heading);
+          font-style: italic;
+          font-size: 1.1rem;
+          color: var(--text-muted);
+          line-height: 1.6;
+          margin: 0;
+          opacity: 0.9;
+        ">
+          Just enough space to feel each day.
+        </p>
+      </div>
 
-        <a href="/days" class="btn-primary" style="display: inline-block; text-decoration: none;">
-            Begin
-        </a>
+      <div style="margin-bottom: 56px;">
+        <Countdown client:load />
+        
+        <p style="
+          font-family: var(--font-heading); 
+          font-style: italic; 
+          color: var(--text-light); 
+          margin-top: -24px; 
+          font-size: 0.95rem;
+          letter-spacing: 0.02em;
+        ">
+          until the celebration
+        </p>
+      </div>
+
+      <a
+        href="/days"
+        class="btn-primary"
+        style="display: inline-block; text-decoration: none;"
+      >
+        Begin
+      </a>
     </div>
 
   </main>

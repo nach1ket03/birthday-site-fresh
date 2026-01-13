@@ -1,3 +1,4 @@
+// src/components/Countdown.jsx
 import { useState, useEffect } from 'react';
 
 export default function Countdown() {
@@ -31,47 +32,25 @@ export default function Countdown() {
     return () => clearInterval(interval);
   }, []);
 
-  const timeUnits = [
-    { label: 'Days', value: timeLeft.days },
-    { label: 'Hours', value: timeLeft.hours },
-    { label: 'Minutes', value: timeLeft.minutes },
-    { label: 'Seconds', value: timeLeft.seconds }
-  ];
-
   return (
     <div style={{
-      display: 'flex',
-      justifyContent: 'center',
-      gap: '24px',
-      fontFamily: 'var(--font-heading)'
+      fontFamily: 'var(--font-heading)', // Playfair Display
+      color: 'var(--accent)',
+      fontSize: '1.1rem',
+      letterSpacing: '0.05em',
+      marginTop: '32px',
+      marginBottom: '40px',
+      opacity: 0.9
     }}>
-      {timeUnits.map((unit, index) => (
-        <div key={index} style={{
-          display: 'flex',
-          flexDirection: 'column',
-          alignItems: 'center',
-          minWidth: '50px'
-        }}>
-          <span style={{
-            fontSize: '1.8rem',
-            color: 'var(--text-main)',
-            lineHeight: '1',
-            fontVariantNumeric: 'tabular-nums' // Keeps numbers from jumping width
-          }}>
-            {unit.value.toString().padStart(2, '0')}
-          </span>
-          <span style={{
-            fontSize: '0.7rem',
-            fontFamily: 'var(--font-body)',
-            textTransform: 'uppercase',
-            letterSpacing: '0.1em',
-            color: 'var(--accent)',
-            marginTop: '6px'
-          }}>
-            {unit.label}
-          </span>
-        </div>
-      ))}
+      <span>{timeLeft.days.toString().padStart(2, '0')} Days</span>
+      <span style={{ margin: '0 8px', opacity: 0.5 }}>·</span>
+      <span>{timeLeft.hours.toString().padStart(2, '0')} Hours</span>
+      <span style={{ margin: '0 8px', opacity: 0.5 }}>·</span>
+      <span>{timeLeft.minutes.toString().padStart(2, '0')} Minutes</span>
+      <span style={{ margin: '0 8px', opacity: 0.5 }}>·</span>
+      <span style={{ fontVariantNumeric: 'tabular-nums' }}>
+        {timeLeft.seconds.toString().padStart(2, '0')} Seconds
+      </span>
     </div>
   );
 }
