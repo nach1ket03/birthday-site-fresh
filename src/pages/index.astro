@@ -8,8 +8,7 @@ import Countdown from "../components/Countdown.jsx";
   <main style="text-align: center;">
     
     <div class="stagger-1">
-      <h1 style="margin-bottom: 16px;">Prelude
-</h1>
+      <h1 style="margin-bottom: 16px;">Prelude</h1>
     </div>
 
     <div class="stagger-2">
@@ -77,5 +76,101 @@ import Countdown from "../components/Countdown.jsx";
       </a>
     </div>
 
-  </main>
+    <div style="
+      margin-top: 64px; 
+      padding-top: 40px; 
+      border-top: 1px solid rgba(0,0,0,0.06);
+      text-align: left;
+      animation: fadeUp 1s 0.4s cubic-bezier(0.2,0.8,0.2,1) forwards; 
+      opacity: 0; 
+      transform: translateY(20px);
+    ">
+      <h3 style="
+        font-size: 1.3rem; 
+        margin-bottom: 24px; 
+        color: var(--text-main);
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        justify-content: center;
+      ">
+        <span style="font-size: 1.1em;">📖</span> How This Works
+      </h3>
+
+      <div style="display: grid; gap: 32px;">
+        
+        <div style="
+          background: rgba(255,255,255,0.4); 
+          border-radius: 16px; 
+          padding: 24px;
+        ">
+          <ul style="
+            list-style: none; 
+            padding: 0; 
+            margin: 0; 
+            display: grid; 
+            gap: 14px;
+            font-size: 0.95rem;
+            color: var(--text-muted);
+          ">
+            <li style="display: flex; gap: 12px; align-items: start;">
+              <span style="color: var(--accent); margin-top: 4px;">✦</span>
+              <span>One story unlocks each day.</span>
+            </li>
+            <li style="display: flex; gap: 12px; align-items: start;">
+              <span style="color: var(--accent); margin-top: 4px;">✦</span>
+              <span>Read it slowly and scroll to the end.</span>
+            </li>
+            <li style="display: flex; gap: 12px; align-items: start;">
+              <span style="color: var(--accent); margin-top: 4px;">✦</span>
+              <span>Each story hides a small gift. Use the hint to guess it.</span>
+            </li>
+            <li style="display: flex; gap: 12px; align-items: start;">
+              <span style="color: var(--accent); margin-top: 4px;">✦</span>
+              <span>Your guess is saved, but nothing is revealed yet.</span>
+            </li>
+          </ul>
+        </div>
+
+        <div style="display: grid; gap: 24px; padding: 0 8px;">
+          
+          <div>
+            <h4 style="
+              font-family: var(--font-body); 
+              text-transform: uppercase; 
+              font-size: 0.75rem; 
+              letter-spacing: 0.1em; 
+              color: var(--text-main); 
+              margin-bottom: 8px;
+              opacity: 0.8;
+            ">
+              A few things to know
+            </h4>
+            <p style="font-size: 0.95rem; margin: 0; line-height: 1.6;">
+              There’s no rush. No pressure to guess right. No need to read ahead. 
+              This is meant to be taken at your pace.
+            </p>
+          </div>
+
+          <div>
+            <h4 style="
+              font-family: var(--font-body); 
+              text-transform: uppercase; 
+              font-size: 0.75rem; 
+              letter-spacing: 0.1em; 
+              color: var(--text-main); 
+              margin-bottom: 8px;
+              opacity: 0.8;
+            ">
+              When do you see the gifts?
+            </h4>
+            <p style="font-size: 0.95rem; margin: 0; line-height: 1.6;">
+              All guesses unlock on the birthday. Until then, it’s just stories.
+            </p>
+          </div>
+
+        </div>
+      </div>
+    </div>
+    </main>
 </Layout>
