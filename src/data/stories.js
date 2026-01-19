@@ -1,44 +1,51 @@
 export const stories = {
   1: {
-    text: `She woke up with motivation.
-It disappeared almost immediately,
-but it did exist for a moment.
+    text: `An Inventory
 
-The day started with good intentions.
-Very confident intentions.
-The kind that sound impressive in your head
-and quietly vanish by breakfast.
+There are a few things she always carries with her.
 
-She made a mental list.
-Forgot half of it.
-Added new things that weren’t urgent.
-Got stressed about all of it anyway.
+Not in her bag.
+Those change.
 
-At some point, she realized
-she was tired without actually doing anything exhausting.
-Which felt unfair, but also on-brand.
+These are less obvious.
 
-Still, she moved through the day.
-Not gracefully.
-Not efficiently.
-But consistently enough to count as trying.
+She carries the ability to stay calm when plans don’t work out.
+She carries questions she never asks out loud.
+She carries a mental list of things she needs to remember for other people.
 
-And that’s the thing no one really says out loud:
-some days aren’t about winning.
-They’re about not fully giving up.
+She carries the habit of double-checking decisions, feelings.
+She carries an almost embarrassing amount of consideration.
+She carries the belief that if she just handles things well enough, everything will be fine.
 
-Today didn’t fix anything.
-But it didn’t spiral either.
+Most days, it is.
 
-A quiet success, honestly.
+She also carries contradictions.
 
-If you think there’s something hidden here, write it down.
-It’s probably something simple.
-The kind of thing you reach for without thinking.`,
-    hint: `It’s something you reach for
-before your brain fully wakes up.
-It doesn’t solve anything—
-it just helps you start.`
+She wants certainty but enjoys surprise.
+She likes quiet but hates being bored.
+She says she’s “not in the mood” and then shows up anyway.
+
+There are things she leaves behind too.
+
+She leaves unfinished cups of coffee.
+She leaves rooms slightly better than she found them.
+She leaves impressions on people without meaning to.
+
+If someone were cataloguing her life carefully,
+they’d notice that none of this looks dramatic.
+
+But it’s consistent.
+And consistency is underrated.
+
+Today doesn’t ask her to change anything.
+It doesn’t require reflection or intention.
+
+It’s just a note in the margin that says:
+
+This version of you exists.
+And it’s doing more than it thinks.`,
+    hint: `It’s something that exists only because someone took time to sit and write.
+It’s meant to be opened slowly.`
   },
   2: {
     text: "Day 2 brings a new perspective.",
