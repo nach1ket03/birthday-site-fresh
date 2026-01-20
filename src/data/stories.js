@@ -48,8 +48,52 @@ And it’s doing more than it thinks.`,
 It’s meant to be opened slowly.`
   },
   2: {
-    text: "Day 2 brings a new perspective.",
-    hint: "Look closer."
+    text: `A Small, Unimportant List
+
+There are things she takes seriously.
+This is not one of them.
+
+She prefers certain spoons.
+Certain playlists for certain moods.
+Certain seats, even though she’ll say she doesn’t care where she sits.
+
+She absolutely cares.
+
+She has opinions about how hot coffee should be.
+About whether days feel better when they start slow or end slow.
+About replying immediately versus “in a bit” (which can mean anything).
+
+She would never call these rules.
+That would sound intense.
+
+They’re just… preferences.
+Quiet ones.
+The kind that make days easier without announcing themselves.
+
+She’ll say she’s flexible.
+And she is.
+As long as flexibility doesn’t involve bad coffee or unnecessary chaos.
+
+She doesn’t make a personality out of these things.
+She doesn’t explain them.
+She just lives accordingly.
+
+Most people wouldn’t notice.
+But if they did, they’d realize something simple:
+
+She knows what she likes.
+And she’s surprisingly consistent about it.
+
+Today isn’t about meaning or growth or reflection.
+
+It’s just a reminder that even the smallest details 
+the ones she pretends don’t matter
+are quietly shaping the way her days feel.
+
+And honestly?
+That’s kind of nice.`,
+    hint: `It’s something small that stays close.
+You don’t notice it all the time only when it moves.`
   },
   // Add all 30 days here...
 };
