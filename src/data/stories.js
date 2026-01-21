@@ -95,5 +95,33 @@ That’s kind of nice.`,
     hint: `It’s something small that stays close.
 You don’t notice it all the time only when it moves.`
   },
+  3: {
+    text: `She watches a lot of reels.
+
+    Whenever she's free. Between study sessions. While eating. Before bed. During the small pockets of time that don't belong to anything else.
+
+    It's not mindless, exactly. She's present for it. Laughing at something ridiculous, saving recipes she'll never make, watching pet videos that remind her of her Jack and gang.
+
+    But here's what happens sometimes:
+
+    She'll see something. A thought. An idea. A line from a song or a quote that lands differently than usual. Something that makes her pause mid-scroll.
+
+    And she'll think, "I should remember this."
+
+    But the reel keeps playing. The next one starts. The algorithm pulls her forward. And the thought? Gone. Dissolved back into the endless scroll.
+
+    Five minutes later she can't remember what it was.
+
+    Just that it felt important for a second.
+
+    It's not that she needs to write everything down. Most of it isn't worth keeping. But occasionally, just occasionally, there's something worth holding onto. A reminder. A small truth. A thing she wants to come back to when her brain isn't being pulled in seventeen directions.
+
+    She's tried typing notes into her phone. But her phone is also where the distraction lives. Opening notes means notifications, messages, the pull back into the scroll.
+
+    The thought needs a different place to land.
+
+    Somewhere analog. Separate. Small enough to keep nearby but apart from the chaos.`,
+hint: `For the thoughts that almost got away.`
+},
   // Add all 30 days here...
 };
