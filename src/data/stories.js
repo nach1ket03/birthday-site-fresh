@@ -121,7 +121,36 @@ You don’t notice it all the time only when it moves.`
     The thought needs a different place to land.
 
     Somewhere analog. Separate. Small enough to keep nearby but apart from the chaos.`,
-hint: `For the thoughts that almost got away.`
-},
+
+    hint: `For the thoughts that almost got away.`
+  },
+  4: {
+    text: `She has a couple of books.
+
+    Not many. Just a few that made their way to her over time gifts, recommendations, things she thought she'd read someday.
+
+    They sit on her desk or her shelf, sometimes stacked, sometimes leaning against each other. She doesn't reach for them often.
+
+    It's not that she doesn't like reading. She just doesn't make time for it. Her day is full study, family, Jack, the cats, reels on her phone whenever there's a gap. Books require a different kind of attention. Longer. Slower. Less interruptible.
+
+    So they wait.
+
+    Every now and then, she'll pick one up. Flip through it. Read a few pages while lying in bed, or during a slow afternoon when her brain is too tired for actual studying but too awake to nap.
+
+    She'll get a chapter in, maybe two. It's nice. Quiet. A different pace from everything else.
+
+    And then she puts it down.
+
+    Not because it's bad. Just because something else calls her attention. A message. A thought. The need to do something that feels more urgent even if it isn't.
+
+    The book stays where she left it. Open, or closed with a corner folded, or face-down holding its own place.
+
+    She'll come back to it eventually. Maybe weeks later. Maybe months.
+
+    Or maybe she won't.
+
+    The books don't seem to mind. They're patient in a way nothing else in her life is required to be.`,
+    hint: `For the few that wait quietly`
+  }
   // Add all 30 days here...
 };
