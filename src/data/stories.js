@@ -151,6 +151,43 @@ You don’t notice it all the time only when it moves.`
 
     The books don't seem to mind. They're patient in a way nothing else in her life is required to be.`,
     hint: `For the few that wait quietly`
+  },
+  5: {
+    text:`She takes her time getting ready to go out.
+
+    Not in a stressed way. Just thorough.
+
+    The process starts with a question: where is she going?
+
+    Casual errand? Easy. Grab something comfortable, done.
+
+    But if it's somewhere that involves being seen a family function, a dinner, anywhere people will notice then the real work begins.
+
+    She'll pull something from her wardrobe. Hold it up. Consider it. Put it back. Try another option. Look in the mirror. Tilt her head. Does this work? Does this feel right for the occasion?
+
+    Her room, already chaotic, gets slightly worse. Clothes on the chair. A dupatta on the bed. The first choice hanging off the door.
+
+    I learned not to ask "Are you ready?" too early. The answer is always "almost," which could mean five minutes or twenty-five.
+
+    Once the outfit is decided, the rest follows.
+
+    Hair up in a scrunchie adjusted twice, maybe three times. Lip balm, then lip gloss on top. No exceptions. Doesn't matter if it's a wedding or groceries.
+
+    Jewelry next. The daily stud comes out, replaced with earrings that match. If it's a bigger occasion, she'll add more.
+
+    Final mirror check. Top to bottom. Does everything work?
+
+    Sometimes she'll notice something no one else would see. A loose thread. The angle of her dupatta. She fixes it anyway.
+
+    Bag gets packed last. Lip balm, sanitizer, lip gloss. Phone. Keys transferred from yesterday's bag.
+
+    Then, finally, she's ready.
+
+    The going out version of herself is more polished than the at-home version. Not because home-her is lesser. Just because going-out-her has a role to play.
+
+    Even the details no one else will see.
+
+    Especially those.`,
+    hint:`A small detail no one else will see.`
   }
-  // Add all 30 days here...
 };
