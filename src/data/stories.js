@@ -189,5 +189,27 @@ You don’t notice it all the time only when it moves.`
 
     Especially those.`,
     hint:`A small detail no one else will see.`
+  },
+  6: {
+    text: `She takes a lot of photos.
+
+    Not of landscapes or aesthetic shots of her coffee or perfectly composed moments. Just... life. The stuff that's happening around her.
+
+    Jack mid yawn. One of the cats doing something ridiculous. Food before she eats it every single time, no exceptions. Herself, from angles she's testing to see which one works best today.
+
+    Her phone gallery is thousands of images deep. Most of them will never be looked at again. She doesn't delete them, though. They just accumulate. Evidence that these moments happened, even if she never scrolls back to check.
+
+    Sometimes she'll take five versions of the same thing. Trying to get the light right, or the angle, or just because the first one didn't feel quite enough.
+
+    It's not vanity. It's not even about getting the perfect shot. It's more like she's collecting proof. Of the food she ate. Of the pets she loves. Of herself existing in this specific moment, wearing this specific thing, feeling however she felt right then.
+
+    Her phone is always in her hand or within reach. Always checking it. Not just for messages or reels, though that's part of it. Just... present. An extension of her.
+
+    The case it lives in gets beaten up fast. Scratched. Worn at the edges. It holds the thing she touches most in a day, so of course it does.
+
+    But it's blank. Functional. Protective, but impersonal.
+
+    Which is strange, considering how much of her life gets captured and stored inside it.`,
+    hint : `So the outside matches what's inside.`
   }
 };
