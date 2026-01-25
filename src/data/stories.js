@@ -211,5 +211,82 @@ You don’t notice it all the time only when it moves.`
 
     Which is strange, considering how much of her life gets captured and stored inside it.`,
     hint : `So the outside matches what's inside.`
+  },
+  7: {
+    text: `She has a recurring announcement she makes with complete seriousness:
+
+    "I'm cutting sugar. For real this time."
+
+    It comes every few weeks. Sometimes after scrolling health content on reels. Sometimes after a family member makes a comment. Sometimes just because she woke up and decided today is the day she becomes the disciplined version of herself who doesn't need dessert.
+
+    She'll say it out loud. Tell her family. Maybe even tell her friends. The commitment is public. Official. Binding.
+
+    "No more sweets. I'm done."
+
+    Her parents nod. They've heard this before. They don't argue.
+
+    The resolve is genuine. She means it. For the next 48 hours, maybe longer, she'll actually follow through. Turn down mithai. Skip dessert. Feel virtuous about it.
+
+    And then.
+
+    After dinner. When she's full but not satisfied. When everyone's winding down and her brain is tired from studying and her phone is playing reels that somehow all feature dessert.
+
+    The text arrives:
+
+    "Should I have sugar-free ice cream or waffle?"
+
+    Or:
+
+    "Mumma and baba want ice cream but they're saying if I don't have it, they won't eat it either. What do I do?"
+
+    Or, the most honest version:
+
+    "I'm craving it SO much. Just this once. I'll start again tomorrow."
+
+    The "just this once" has happened approximately 47 times.
+
+    She knows this. Is fully aware. Will even laugh about it mid-bite.
+
+    "I know. I literally said I was cutting sugar yesterday."
+
+    Pause.
+
+    "But this doesn't count because family pressure, bad day, special occasion, Mercury in retrograde, etc."
+
+    The cycle is predictable:
+
+    Day 1: Declaration of intent. Sugar is the enemy. Willpower activated.
+
+    Day 2-4: Success. Feeling great. Definitely never eating sugar again.
+
+    Day 5: A craving appears. Small. Manageable.
+
+    Day 6: The craving grows. Becomes loud.
+
+    Day 7: "Just this once."
+
+    Day 8: (Optional) Guilt.
+
+    Day 9: "Okay, I'm cutting sugar again. For real this time."
+
+    Her family has stopped taking the announcements seriously. They just smile and wait.
+
+    They know she'll be back at the dessert table within the week, pretending her parents forced her to eat it so they wouldn't feel bad.
+
+    Which, to be fair, is sometimes actually true.
+
+    But mostly it's just that the morning version of her the one who makes declarations doesn't account for the after dinner version of her, who is tired and wants something sweet and doesn't want to negotiate with her own cravings anymore.
+
+    Both versions are her.
+
+    Both are equally convinced they're right.
+
+    Though, honestly, nothing she craves after dinner could ever be sweeter than the smile she gives when she's caught in the contradiction.
+
+    That one's sugar-free.
+
+    And completely worth it.`,
+hint: `For the version of her that says "just this once" (again).
+`
   }
 };
