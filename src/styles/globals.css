@@ -62,6 +62,26 @@ p, article {
     color: var(--text-muted);
 }
 
+/* --- NEW: FIX FORMATTING INSIDE STORIES --- */
+article strong, 
+article b {
+    font-weight: 600; /* Use the weight actually loaded in Layout.astro */
+    color: var(--text-main); /* Make bold text darker than the muted body text */
+}
+
+article em, 
+article i {
+    color: var(--text-main); /* Make italics darker for readability */
+}
+
+article h3 {
+    font-size: 1.5rem;
+    margin-top: 2.5rem;   /* Add space above the heading */
+    margin-bottom: 1rem;  /* Add space below the heading */
+    font-weight: 400;
+}
+/* ------------------------------------------ */
+
 a {
     text-decoration: none;
     color: inherit;

@@ -153,7 +153,7 @@ You don’t notice it all the time only when it moves.`
     hint: `For the few that wait quietly`
   },
   5: {
-    text:`She takes her time getting ready to go out.
+    text: `She takes her time getting ready to go out.
 
     Not in a stressed way. Just thorough.
 
@@ -188,7 +188,7 @@ You don’t notice it all the time only when it moves.`
     Even the details no one else will see.
 
     Especially those.`,
-    hint:`A small detail no one else will see.`
+    hint: `A small detail no one else will see.`
   },
   6: {
     text: `She takes a lot of photos.
@@ -210,7 +210,7 @@ You don’t notice it all the time only when it moves.`
     But it's blank. Functional. Protective, but impersonal.
 
     Which is strange, considering how much of her life gets captured and stored inside it.`,
-    hint : `So the outside matches what's inside.`
+    hint: `So the outside matches what's inside.`
   },
   7: {
     text: `She has a recurring announcement she makes with complete seriousness:
@@ -286,7 +286,53 @@ You don’t notice it all the time only when it moves.`
     That one's sugar-free.
 
     And completely worth it.`,
-hint: `For the version of her that says "just this once" (again).
+    hint: `For the version of her that says "just this once" (again).`
+  },
+
+  8: {
+    text: `
+    Enough of stories for a week. You must be tired by now, right?
+    Let's take a break. Here's a poem instead.
+
+    <b>On Her Hair</b>
+
+<em>The first time that we met, it was the bangs,
+not styled with perfect care or fancy tangs,
+just falling soft across her forehead there
+effortless, like she didn't know I'd stare.
+
+She probably just woke and checked the mirror,
+decided they looked fine, the choice was clearer,
+then tied her hair and moved on with her day,
+while I stayed stuck on details she'd display.
+
+Her hair has always held a gentle wave,
+not curly tight, not straight like those who save
+their mornings fighting with a brush and heat
+just in between, unpredictable, but sweet.
+
+It moves the way she moves, it falls and sways,
+it changes shape depending on the days,
+she'll tie it up without a second thought,
+and somehow make it look like something sought.
+
+The bangs are gone now, grown and swept aside,
+replaced by whatever comes with time and tide,
+but still that wave remains, still soft, still true,
+still catching light in ways I notice through.
+
+Some beauty shouts and demands you see,
+announces its arrival, bold and free.
+But other beauty's quieter, it stays
+like sunlight through a window, hair that sways,
+like moments that refuse to fade away,
+like bangs from our first meeting, on that day.
+
+Those bangs were that a detail, small but clear.
+
+Her hair still is. Still beautiful. Still here.<em>
+    `,
+    hint: `For the waves that don't need fixing.
 `
   }
-};
+}

@@ -20,16 +20,14 @@ const story = stories[id] || { text: "The ink is still wet on this page.", hint:
         <a href="/days" style="font-size: 1.5rem; opacity: 0.4; line-height: 0.5;">×</a>
     </div>
     
-    <article class="stagger-2" style="
+    <article class="stagger-2" set:html={story.text} style="
         font-family: var(--font-heading);
         font-size: 1.35rem;
         line-height: 1.8;
         color: var(--text-main);
-        white-space: pre-line;
+        white-space: pre-line; 
         margin-bottom: 64px;
-    ">
-        {story.text}
-    </article>
+    " />
 
     <div class="stagger-3">
         <GuessInput client:load dayId={id} hint={story.hint} />
