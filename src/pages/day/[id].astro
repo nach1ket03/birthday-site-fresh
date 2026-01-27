@@ -2,7 +2,6 @@
 import Layout from '../../layouts/Layout.astro';
 import { stories } from '../../data/stories';
 import GuessInput from '../../components/GuessInput';
-import PageTracker from '../../components/PageTracker'; // <--- 1. Import Here
 
 export function getStaticPaths() {
   return Array.from({ length: 30 }, (_, i) => ({ params: { id: (i + 1).toString() } }));
@@ -13,8 +12,6 @@ const story = stories[id] || { text: "The ink is still wet on this page.", hint:
 ---
 
 <Layout title={`Day ${id}`}>
-  <PageTracker client:load dayId={id} />
-
   <main>
     <div class="stagger-1" style="display: flex; justify-content: space-between; align-items: baseline; border-bottom: 1px solid rgba(0,0,0,0.05); padding-bottom: 24px; margin-bottom: 40px;">
         <span style="font-family: var(--font-body); text-transform: uppercase; letter-spacing: 0.15em; font-size: 0.85rem; color: var(--accent);">
