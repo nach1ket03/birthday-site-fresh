@@ -334,5 +334,54 @@ Her hair still is. Still beautiful. Still here.<em>
     `,
     hint: `For the waves that don't need fixing.
 `
+  },
+  9: {
+    text: `She didn't know how to embroider.
+
+    Had never done it before. Probably never thought about doing it.
+
+    But she had an idea for a gift, and the idea required a skill she didn't have.
+
+    So she learned.
+
+    Not casually. Not half committed. She actually sat down and taught herself from scratch.
+
+    Watched tutorials. Rewound them when the steps didn't make sense. Practiced on scraps of fabric until her fingers understood what her eyes were seeing. Figured out how thread tension works, how to keep stitches even, how to make letters look like letters and not just optimistic lines.
+
+    She messed up. Obviously. Started over. Pulled out stitches that didn't sit right. Tried again.
+
+    No one asked her to do this. No one was watching. She could have bought something easier, something ready made, something that wouldn't require hours of learning a new skill just to execute one idea.
+
+    But that's not what she did.
+
+    She bought a hoodie. Stitched a name across it careful, deliberate, imperfect in all the ways that prove a human made it. The letters weren't perfectly uniform. Some stitches were tighter than others. You could see  where her hand corrected itself mid word, where the learning happened in real time.
+
+    And somehow that made it better.
+
+    Because the imperfections weren't flaws. They were evidence. Proof that she'd started with nothing and built something anyway. That the gift wasn't just the hoodie, it was the hours spent learning how to make it exist.
+
+    That hoodie still gets worn.
+
+    Not because it's the warmest or the best made or the most expensive. But because wearing it feels different. There's a weight to it that has nothing to do with fabric. A warmth that comes from knowing someone cared enough to learn something difficult just to give it.
+
+    Most gifts are chosen. Picked from a shelf or a website. Wrapped and handed over.
+
+    This one was built. Thread by thread. Mistake by mistake. Hour by hour.
+
+    That's the difference.
+
+    And it's the kind of difference that doesn't fade.
+
+    Some people give what's easy.
+
+    She gave what took effort.
+
+    And that effort is still felt, every time the hoodie gets pulled on. Every time the stitches catch the light. Every time the memory of how it came to exist resurfaces quietly, unannounced.
+
+    She's someone who doesn't just have ideas.
+
+    She learns what's needed to make them real.`,
+
+hint: `A small echo of something larger.`
   }
 }
