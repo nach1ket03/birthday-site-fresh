@@ -383,5 +383,66 @@ Her hair still is. Still beautiful. Still here.<em>
     She learns what's needed to make them real.`,
 
 hint: `A small echo of something larger.`
+  },
+  10: {
+    text: `She has lunch early.
+
+    Not by choice, exactly. Just how the day unfolds. Family rhythm. Timing that works for everyone else, so she goes with it.
+
+    By late afternoon, she's hungry again.
+
+    Not starving. Just aware that lunch was hours ago and dinner is still hours away and her stomach is starting to lodge a formal complaint.
+
+    So she tries to solve it.
+
+    First thought: order something.
+
+    She'll open the food app. Scroll through options. Add something to cart. Stare at the total.
+
+    Then the guilt kicks in.
+
+    "I can't order every day. It's not good to have outside food daily."
+
+    She deletes the cart.
+
+    Second thought: make something.
+
+    She'll stand in the kitchen. Survey the ingredients. Consider the effort required. Think about how this exact scenario will happen again tomorrow. And the day after.
+
+    "How can I make everything daily?"
+
+    The answer is: she can't. Or won't. Or doesn't want to commit to that level of daily cooking for a snack that only she will eat.
+
+    Third thought: find something already made.
+
+    She opens the cupboard. Scans the shelves.
+
+    Chips from three days ago almost empty. Biscuits? boring. Something her parents bought that she doesn't particularly want.
+
+    Nothing feels right.
+
+    She closes the cupboard.
+
+    Opens the fridge. Looks inside. Closes it.
+
+    Checks the cupboard again, as if something new might have appeared in the last thirty seconds.
+
+    It hasn't.
+
+    So she gives up. Goes back to her room. Lies down. Scrolls reels. Tells herself she's not that hungry.
+
+    An hour later, the cycle repeats.
+
+    It's not that food doesn't exist in the house. It's that the food that exists requires either effort or compromise, and she's not in the mood for either.
+
+    What she wants is something easy. Ready. Satisfying without being a whole production.
+
+    But that thing is rarely just sitting there waiting for her.
+
+    So she stays hungry. Or eats something suboptimal. Or eventually orders anyway and feels mildly guilty about it.
+
+    The struggle is real. And daily. And entirely self inflicted.`,
+
+    hint: `For when the cupboard disappoints again.`
   }
 }
