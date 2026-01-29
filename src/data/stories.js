@@ -444,5 +444,56 @@ hint: `A small echo of something larger.`
     The struggle is real. And daily. And entirely self inflicted.`,
 
     hint: `For when the cupboard disappoints again.`
-  }
+  },
+  11: {
+    text: `
+    <strong>Umm, I don't actually have anything specific to write for today's gift.
+So here's the thing, I like her the most for.</strong>
+    
+    She's funnier than she gets credit for.
+
+    Not in the loud, center of attention way. Not with rehearsed jokes or trying too hard humor.
+
+    Just naturally funny in the way people are when they're not performing.
+
+    She'll say something completely deadpan "abe saale" and it lands perfectly because the timing is effortless. She's not trying to be funny. She just is.
+
+    She laughs at her own jokes before she finishes telling them. Starts giggling mid sentence, can barely get the punchline out. And somehow that becomes the funniest part. Not the joke itself, but her inability to deliver it without cracking up.
+
+    It's contagious. You end up laughing at her laughing, and by then no one even remembers what the original joke was.
+
+    She doesn't interrupt people when they're talking. Waits for the natural pause. Listens first, speaks second.
+
+    That's rarer than it should be.
+
+    Most people are just waiting for their turn. Already composing their response while you're mid sentence.
+
+    She actually pays attention. Absorbs what's being said. Responds to it instead of talking past it.
+
+    Her laugh is quiet. Not the loud, room filling kind. Just soft. Almost like she's trying not to laugh too hard but can't quite help it.
+
+    It's the kind of laugh that makes you want to say funnier things just to hear it again.
+
+    She handles compliments like they're small inconveniences.
+
+    "You look nice."
+
+    "I know, right?"
+
+    No false modesty. No brushing it off. Just... agreement. Confidence without arrogance.
+
+    It's refreshing.
+
+    She doesn't apologize when she doesn't need to. Doesn't over-explain herself. Doesn't shrink to make other people comfortable.
+
+    She just exists at her full size and lets that be enough.
+
+    There's a specific kind of peace that comes from being around someone who isn't trying to manage your perception of them.
+
+    She's just herself. Consistent. Unapologetic. Easy.
+
+    And that ease makes everything lighter.`,
+    hint: `Something practical, because today isn't about metaphors.`
+  },
+
 }
