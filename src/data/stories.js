@@ -495,5 +495,45 @@ So here's the thing, I like her the most for.</strong>
     And that ease makes everything lighter.`,
     hint: `Something practical, because today isn't about metaphors.`
   },
+  12: {
+    text:`When life gets too loud, she has a ritual.
 
+    Not complicated. Not something she read about in a wellness article or saw on a reel. Just something she figured out works for her.
+
+    She lights a candle.
+
+    Dims the lights in her room, sometimes off completely, just the small flame and maybe the glow from her phone if it's nearby.
+
+    Then she does her skincare routine. Slowly. Not the rushed version she does most nights when she's tired and just wants to sleep. The intentional kind. Each step deliberate, methodical.
+
+    She'll sit there after, in front of the candle, and just... be.
+
+    No phone scrolling. No reel watching. No studying or thinking about studying.
+
+    Just her and the quiet and the small, flickering light.
+
+    It's her version of therapy. Her reset button when everything feels like it's stacking up too high exams, deadlines, family expectations, the mental load of juggling everything at once, the general chaos of being herself and trying to have her life together.
+
+    The candle doesn't solve anything. Doesn't make the syllabus shorter or easier or her room less messy.
+
+    But it slows her down. Makes the air feel different. Gives her brain permission to stop running for a few minutes.
+
+    She doesn't do it every night. Just when she needs it. When the day has been too much and she can feel herself getting tight and overwhelmed and too far inside her own head.
+
+    The flame is small. Steady. Unbothered by anything happening outside its little radius of light.
+
+    And for those few minutes before sleep, she gets to borrow that steadiness.
+
+    Sit with it. Let it calm her down.
+
+    Then blow it out, get into bed, and try again tomorrow.
+
+    It's a small thing.
+
+    But small things matter when the big things feel impossible to control.
+    
+    <i>I hope you're reading this while being on a video call with me. So go on, get up, light your candle, and calm yourself down. KEKW.</i>`,
+    
+    hint: `For the nights when everything needs to slow down.`
+  },
 }
