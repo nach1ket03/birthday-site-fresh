@@ -536,4 +536,62 @@ So here's the thing, I like her the most for.</strong>
     
     hint: `For the nights when everything needs to slow down.`
   },
+  13: {
+    text:`Coffee has always been the answer.
+
+    Not in a caffeine addiction way. In a "this is how we solve things" way.
+
+    Want to hang out? Coffee.
+
+    Feeling sleepy and need to function? Coffee.
+
+    Stressed about exams or life or the general chaos of everything? Coffee.
+
+    Fighting and need to actually talk it out instead of letting it sit and fester? Meet at a coffee shop.
+
+    It became the default. The neutral ground. The place where things felt manageable.
+
+    Doesn't matter what the situation was good day, bad day, normal day, complicated day coffee was the through line. The thing that made sense when nothing else did.
+
+    She doesn't drink tea. Never do. But coffee? That's non negotiable.
+
+    Morning coffee to actually wake up. Afternoon coffee when studying gets too dense and her brain needs a restart. Evening coffee sometimes, just because.
+
+    And then there's the restriction conversation. The one that happens regularly.
+
+    "Ketki, no. No excess coffee from now."
+
+    She'll nod. Agree. Acknowledge that yes, maybe she's had too much caffeine today.
+
+    Very next day:
+
+    "Please. Just for today. I'm craving it."
+
+    "You said you'd cut back."
+
+    "I know, I know. But just this once. Please?"
+
+    And somehow every single time she finds a way to convince.
+
+    The pleading isn't dramatic. Just persistent. Gentle. She'll list reasons: she's tired, she has studying to do, she hasn't had that much today (debatable), she'll cut back tomorrow (also debatable).
+
+    It doesn't matter how firm the restriction is. She'll negotiate her way around it. Not aggressively. Just... effectively.
+
+    By the end of the conversation, there's coffee in her hand.
+
+    And all those times sitting across from each other, hands wrapped around mugs, talking or not talking, just being there that became its own kind of ritual.
+
+    Coffee shops weren't just about the coffee. They were about the pause. The space to breathe. The unspoken agreement that whatever needed to be said could be said here, over something warm and familiar.
+
+    Even fights felt less sharp with coffee in hand. Something about sitting down, ordering, waiting for it to arrive it forced a slowdown. A chance to recalibrate before words got thrown around that couldn't be taken back.
+
+    Some people sort things out over long walks or late night calls.
+
+    For her, it was always coffee.
+
+    And somehow, that was enough.
+
+    No matter how many times the answer was supposed to be "no."`,
+    hint:`For all the conversations that needed it.`
+  }
 }
