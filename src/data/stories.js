@@ -593,5 +593,55 @@ So here's the thing, I like her the most for.</strong>
 
     No matter how many times the answer was supposed to be "no."`,
     hint:`For all the conversations that needed it.`
+  },
+  14: {
+    text:`She has a collection of perfumes.
+
+    Not just one or two bottles. A proper collection. Different scents for different occasions, different moods, different versions of herself.
+
+    She's particular about it. Knows which one works for what. Casual day? One scent. Family function? Different one. She'll stand in front of her dresser, consider her options, pick the one that matches where she's going.
+
+    Each bottle has its purpose.
+
+    I never knew much about perfumes before her. Still don't, really. Couldn't tell you the notes or the brands or what makes one better than another.
+
+    But I know hers.
+
+    Not by name. Not by bottle. Just by scent.
+
+    The way it lingers in a room after she leaves. Not overwhelming, just... there. A quiet reminder she'd been in that space.
+
+    The way it clings to my clothes if we've been close. I'll notice it hours later on my sleeve, my hoodie and it catches me off guard. A small unexpected reminder of her in the middle of an ordinary moment.
+
+    The way it's become inseparable from her. Like the scent isn't something she puts on. It's just part of who she is.
+
+    It's strange how smell works with memory.
+
+    You can forget details. Forget exact words or what someone was wearing or how a conversation started.
+
+    But the scent? That stays.
+
+    Sometimes I'll catch a whiff of something similar not even the same perfume, just something close and memories rush back. Uninvited. Complete.
+
+    Not just the memory itself, but the feeling of it. The weight of that time. Everything that mattered.
+
+    Her scent has become tied to all of it.
+
+    The easy moments and the complicated ones. The light days and the harder ones. Everything in between.
+
+    It all carries the same smell.
+
+    Her smell.
+
+    The one I couldn't name if someone asked but would recognize instantly, anywhere.
+
+    She's my favorite scent.
+
+    Not because I understand perfumes or have refined taste.
+
+    Just because it's hers.
+
+    And that's the only thing that's ever mattered.`,
+hint:`For the scent that carries everything.`
   }
 }
