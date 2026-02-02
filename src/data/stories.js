@@ -643,5 +643,45 @@ So here's the thing, I like her the most for.</strong>
 
     And that's the only thing that's ever mattered.`,
 hint:`For the scent that carries everything.`
+  },
+  15: {
+    text: `
+    <b>Her Eyes</b>
+
+    Her eyes are not just eyes to me,
+    They are the place my thoughts go free.
+    Two quiet skies, so deep, so wide,
+    Where every truth I hide.
+
+    They've seen my storms before they fell,
+    Read every fear I couldn't tell.
+    When words collapsed and courage died,
+    Her eyes stood still, and stayed beside.
+
+    At dawn they glow with tender fire,
+    At dusk they darken with desire.
+    They hold the blue of breaking seas,
+    And all the calm of ancient trees.
+
+    I've watched them laugh, I've watched them ache,
+    Turn fragile moments into faith.
+    One glance, and suddenly I know
+    There's nowhere else I need to go.
+
+    The night has asked them for their art,
+    The stars have learned them by heart.
+    Even the moon, in silver disguise,
+    Grows jealous of her patient eyes.
+
+    They carry secrets soft and slow,
+    Of love unsaid, of time let go.
+    In them I've found both war and rest,
+    The bravest fear, the gentlest test.
+
+    So if this world should fade or fall apart,
+    I'd still be safe. I've learned the way by heart.
+    For every ending I've ever known
+    Finds its meaning in her eyes alone.`,
+    hint: `For the eyes that see everything, and still stay.`
   }
 }
