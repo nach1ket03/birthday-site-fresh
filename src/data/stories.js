@@ -683,5 +683,92 @@ hint:`For the scent that carries everything.`
     For every ending I've ever known
     Finds its meaning in her eyes alone.`,
     hint: `For the eyes that see everything, and still stay.`
+  },
+  16: {
+    text: `
+    She walks like a penguin.
+
+    This is a scientific fact, confirmed by multiple witnesses.
+
+    The discovery happened when the three of us were together; me, her, and Apoorva. We were just hanging out, nothing special, and then she got up to go somewhere.
+
+    And we all saw it.
+
+    The shuffle. The waddle. The slight side to side sway like she was navigating ice even though she was just walking across a normal floor.
+
+    We looked at each other. The realization was instant. Unanimous.
+
+    "You walk like a penguin."
+
+    She denied it. Obviously. Insisted she walks completely normally, thank you very much.
+
+    But the evidence was irrefutable. We'd all seen it. There was no going back.
+
+    The teasing began immediately.
+
+    And it hasn't stopped since.
+
+    Because once you notice it, you can't unnotice it. Every time she gets up and starts moving especially at home when she's comfortable and not thinking about it there it is. The penguin walk.
+
+    Feet shuffling. Barely lifting off the ground. That little waddle that makes her look like she's perpetually about to slip on ice that doesn't exist.
+
+    It's adorable.
+
+    Like, genuinely, really adorable.
+
+    She looks so cute doing it, even though she has no idea she's doing it half the time.
+
+    But here's the thing that makes it even better:
+
+    She doesn't just walk like a penguin.
+
+    She runs like one too.
+
+    And it's the funniest thing in the world.
+
+    Because she doesn't actually know how to run. Not properly, anyway.
+
+    When she tries to run like actually move fast it's not running. It's speed waddling.
+
+    Her arms don't pump right. Her feet don't coordinate. Her whole body just kind of... wobbles forward at a slightly increased pace while still maintaining full penguin energy.
+
+    It's not athletic. It's not graceful. It's not efficient.
+
+    It's hilariously cute.
+
+    We've seen it happen. When she's late and trying to hurry. When she's excited and moving toward something. When she's being chased (playfully, obviously).
+
+    The run is just the walk but faster and somehow even more penguin like.
+
+    She gets teased for that too.
+
+    "Ketki, that's not running."
+
+    "Yes it is!"
+
+    She'll protest. Defend her running form like it's a legitimate technique.
+
+    But deep down, she knows.
+
+    She's a penguin. In walk mode and run mode.
+
+    There's even a stuffed penguin now. Pingu. Lives in her room. Became an official mascot of the whole situation.
+
+    No one remembers when Pingu arrived or why it stayed, but it's there now. A permanent reminder that she is, in fact, a penguin in human form.
+
+    And honestly?
+
+    It's perfect.
+
+    Because penguins are objectively adorable. They waddle around with full confidence even though they look ridiculous. They don't care. They just exist at their own pace, in their own way.
+
+    She's the same.
+
+    Moves through life however she wants. Doesn't rush unless she has to. And when she does, it's the cutest, funniest, most endearing version of rushing imaginable.
+
+    The penguin energy is unmatched.
+
+    And we wouldn't change it for anything.`,
+    hint: `For the penguin who waddles and runs (kind of).`
   }
 }
