@@ -770,5 +770,74 @@ hint:`For the scent that carries everything.`
 
     And we wouldn't change it for anything.`,
     hint: `For the penguin who waddles and runs (kind of).`
-  }
+  },
+  17: {
+    text: `
+    If someone asked me about Ketki, I'd call her the most beautiful creature in the world.
+
+    But every creature has a creator, right?
+
+    And in this case, the creator is just as beautiful as the creation.
+
+    Smita kaku.
+
+    Ketki's mom. Though sometimes it's hard to tell who's actually the mom in that relationship.
+
+    Because here's the thing: Smita kaku was the most pampered kid in her family before marriage. An actual princess. The kind of daughter who was adored, protected, spoiled in all the best ways.
+
+    And some part of her never stopped being that.
+
+    She still carries that energy. The ease of someone who was loved without conditions. Who grew up knowing she was enough exactly as she was.
+
+    She's cool. Beautiful. Smart. Confident in a way that doesn't need to announce itself.
+
+    She loves herself as she is. Doesn't apologize for it. Doesn't shrink.
+
+    That's rare.
+
+    But when it comes to Ketki?
+
+    Smita kaku becomes the kid.
+
+    It's not a role reversal, exactly. It's more like... Ketki grew up faster in some ways. Became the responsible one. The planner. The one who remembers things and keeps track of logistics and makes sure everything runs smoothly.
+
+    So sometimes (often), actually the family forgets who's supposed to be the mom.
+
+    They'll turn to Ketki for decisions. For organization. For the final word on how things should go.
+
+    And Smita kaku? She's fine with it. Doesn't fight it. Just lets Ketki be Ketki.
+
+    They fight, obviously. The way mothers and daughters do when they're too similar in all the ways that matter and too different in all the ways that clash.
+
+    But they also share everything.
+
+    Gossip about the world. About people. About life.
+
+    They talk the way friends talk. The way people talk when they trust each other enough to say the unfiltered version of their thoughts.
+
+    There's a lightness between them. A ease.
+
+    Even when they're arguing.
+
+    Smita kaku isn't the stereotypical "traditional mom." She's not hovering or controlling or trying to mold Ketki into some fixed idea of what a daughter should be.
+
+    She just lets her exist.
+
+    And maybe that's why Ketki turned out the way she did.
+
+    Because she was raised by someone who loved herself unapologetically and gave her daughter permission to do the same.
+
+    The most beautiful creature in the world didn't come from nowhere.
+
+    She came from someone who knew her own worth.
+
+    Who carried herself with confidence and warmth and ease.
+
+    Who was pampered and loved and never forgot what that felt like, so she made sure her daughter felt it too.
+
+    Happy birthday, Smita kaku.
+
+    Thank you for creating my favorite person.`,
+    hint: `For the woman who made everything possible.`
+  },
 }
