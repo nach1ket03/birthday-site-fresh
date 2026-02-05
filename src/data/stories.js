@@ -840,4 +840,69 @@ hint:`For the scent that carries everything.`
     Thank you for creating my favorite person.`,
     hint: `For the woman who made everything possible.`
   },
+  18: {
+    text: `
+    She loves jewelry.
+
+    Especially earrings.
+
+    Not the "I have a few pairs I rotate through" kind of love. The "I have a collection and I'm always adding more" kind.
+
+    Big ones, small ones, jhumkas that move when she does, studs for everyday, statement pieces for occasions. Gold, silver, oxidized, colorful. Traditional, modern, somewhere in between.
+
+    She wears them every single day.
+
+    The simple stud for normal days barely noticeable, just there because it should be.
+
+    But when she's going out? That's when the real decision happens.
+
+    She'll stand in front of her jewelry box, consider her options, pick something that matches the outfit, the occasion, the mood. Heavy jhumkas for a wedding. Delicate hoops for something casual. Statement pieces when she wants to feel put together.
+
+    Earrings aren't just an accessory for her. They're part of the whole assembly.
+
+    The outfit gets chosen (and reconsidered). Jewelry comes next and earrings are always the priority.
+
+    They frame her face. Change the energy of the whole look. Add weight or lightness depending on what she picks.
+
+    And here's the thing about her earring obsession:
+
+    If we're out somewhere, anywhere and she sees an earring stall, she will stop.
+
+    Doesn't matter if we're in a rush. Doesn't matter if we have somewhere to be. Doesn't matter if we literally just talked about needing to leave.
+
+    She sees earrings, she's checking them out.
+
+    It's automatic. Non negotiable. A law of physics at this point.
+
+    "Ketki, we need to go."
+
+    "Just two minutes."
+
+    (It's never two minutes.)
+
+    She'll pick them up, hold them near her ears, tilt her head in that considering way. Ask my opinion even though she's already decided. Compare two pairs that look almost identical to me but are apparently completely different to her.
+
+    "Which one?"
+
+    "They're the same."
+
+    "They're not the same. This one has more detail. This one is lighter."
+
+    And then she'll buy one. Or both. Or neither, but only after a full deliberation process.
+
+    Her collection is massive at this point. Overflowing. She has more earrings than any one person reasonably needs.
+
+    But that doesn't stop her.
+
+    A new pair catches her eye and suddenly it's essential. Perfect. Will go with everything (it won't, but she believes it).
+
+    The jewelry box keeps expanding. A mix of favorites she wears on repeat and impulse buys she hasn't gotten around to yet but will, definitely, someday.
+
+    Some people window shop casually.
+
+    She has a specific target: earring stalls.
+
+    And she never misses one.`,
+    hint: `For the collection that stops traffic (literally).`
+  }
 }
