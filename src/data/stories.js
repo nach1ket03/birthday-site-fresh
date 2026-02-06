@@ -904,5 +904,63 @@ hint:`For the scent that carries everything.`
 
     And she never misses one.`,
     hint: `For the collection that stops traffic (literally).`
+  },
+  19: {
+    text: `
+    She doesn't like red roses.
+
+    Not in a "they're fine I guess" way. In a genuine "please don't give me those" way.
+
+    Red is the color of love. Red is what you give to partners. Red is cliché. Red is... just not her thing.
+
+    She's made this clear. Multiple times. To multiple people.
+
+    If someone shows up with red roses, she'll accept them politely because she's not rude but internally she's already decided they're going in a vase somewhere.
+
+    It's not about the gesture. It's about the color.
+
+    Red feels too obvious. Too performative. Too "this is what you're supposed to give to your partner because someone decided it means romance."
+
+    She doesn't want the default option.
+
+    She wants something that actually feels like her.
+
+    Sunflowers, though?
+
+    Those are different.
+
+    Bright. Warm. Unapologetically cheerful. They don't try to be romantic or delicate or symbolically loaded.
+
+    They're just... happy.
+
+    Big, bold, facing the sun like they have nothing to prove.
+
+    She loves them.
+
+    And so do I.
+
+    It's one of those rare things we both agree on without needing to discuss it. No debate. No compromise. Just mutual, immediate appreciation.
+
+    Sunflowers don't need meaning attached to them. They exist loudly and brightly and that's enough.
+
+    They're not trying to be elegant or sophisticated or fit into some predetermined idea of what a flower should represent.
+
+    They just are.
+
+    Which is probably why she loves them.
+
+    Because she's the same way.
+
+    Doesn't fit into neat categories. Doesn't perform what people expect. Just exists fully as herself bright, unbothered, taking up space without apology.
+
+    Red roses could never.
+
+    Sunflowers, though?
+
+    Those get it.
+    
+    <i>Waise toh don't believe in Valentine's and all that. But yeah. 
+    Happy Rose Day to my pretty fool 💕.
+    </i>`
   }
 }
