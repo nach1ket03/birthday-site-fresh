@@ -961,6 +961,7 @@ hint:`For the scent that carries everything.`
     
     <i>Waise toh don't believe in Valentine's and all that. But yeah. 
     Happy Rose Day to my pretty fool 💕.
-    </i>`
+    </i>`,
+    hint: `For someone who faces the sun, not the clichés.`
   }
 }
