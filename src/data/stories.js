@@ -963,39 +963,5 @@ hint:`For the scent that carries everything.`
     Happy Rose Day to my pretty fool 💕.
     </i>`,
     hint: `For someone who faces the sun, not the clichés.`
-  },
-  26: {
-    text: `Almost two years ago, we made a bet.
-There was a game. A challenge. The stakes were simple: whoever wins gets a ramen date.
-I won.
-And I still haven't gotten my treat.
-She'll bring it up sometimes. "I know, I know. I owe you ramen."
-And then... nothing. Life happens. Time passes. The debt remains unpaid.
-It's become a running joke at this point. The ramen date that will happen someday. Eventually. When she decides the time is right.
-(Which, knowing her, could be tomorrow or three years from now.)
-But here's the thing: we both love ramen.
-Not just eating it. Cooking it too.
-She's good at it. Really good. Knows how to get the broth right, how to cook the noodles so they're not too soft, how to layer the toppings in a way that makes it look like it came from an actual restaurant.
-When she came over to my place, we cooked together.
-Actually, she cooked. I was the assistant.
-Because when she's cooking, interference is not welcome.
-She has a system. A rhythm. A way things need to be done.
-My job was simple: hand her things when asked, stay out of the way otherwise, and definitely don't offer unsolicited suggestions about how to do something.
-I followed instructions. She did the rest.
-And it was delicious.
-The kind of delicious that makes you understand why people get territorial about cooking. Because when you know what you're doing, you don't need someone else's input messing up the flow.
-Ramen, sushi, tteokbokki—Asian cuisine is our thing. The food we both get excited about. The kind of meal that feels like an event, not just eating.
-We have nicknames, even. Kimbap and Gimbap.
-Hers and mine. A pair. A set.
-The kind of inside joke that doesn't make sense to anyone else but makes perfect sense to us.
-So yeah, she still owes me that ramen date.
-But honestly? I'm not in a rush.
-Because the best ramen we've had wasn't at a restaurant anyway.
-It was the one she made. In my kitchen. With me as her slightly useless but enthusiastic assistant.
-That one's hard to beat.
-Even if it technically doesn't count as paying off the bet.
-(It doesn't. I'm still owed. Just to be clear.)
-
-Gimbap loves you a lot, Kimbap.`
   }
 }
