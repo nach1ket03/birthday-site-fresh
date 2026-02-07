@@ -963,5 +963,68 @@ hint:`For the scent that carries everything.`
     Happy Rose Day to my pretty fool 💕.
     </i>`,
     hint: `For someone who faces the sun, not the clichés.`
+  },
+  20: {
+    text: `
+    We've never completed a movie together.
+
+    Not one. Not a single full movie from start to finish without getting distracted or falling asleep or just... losing interest.
+
+    But music? We listen to music constantly.
+
+    It's been the one constant thing. The thing that's always there, threading through everything.
+
+    We don't have the same taste. Not even close.
+
+    She loves chatpate, upbeat, high energy songs. I lean toward sad romantic ones that she can't stand.
+
+    We both love indie music, but even there our artists don't overlap. Different vibes. Different moods. Completely different playlists.
+
+    And yet.
+
+    We listen together. All the time.
+
+    Car drives where we're both vibing, windows down, volume up, her singing along to something I don't know but I'm nodding along anyway.
+
+    Car parked in some random spot, just sitting there jamming to whatever's playing, not ready to leave yet because the song's too good.
+
+    Those scooty rides in Pune sharing earbuds, her in the back, me driving, music playing while we traveled miles without saying much because the music said it for us.
+
+    Fighting over whose song plays next. Her skipping mine. Me tolerating hers because she's already singing and it's too late to argue.
+
+    And those Apple Music sessions.
+
+    The ones where we'd just sit. Put on music. Not talk. Not scroll. Just listen.
+
+    When we were sad and needed to feel something. When we wanted to calm ourselves down. When the day was too loud and we needed the music to quiet everything else.
+
+    Or those random dance breaks between study sessions, a song playing, both of us moving like idiots because why not.
+
+    Music has always been part of us.
+
+    Not in the background. Right in the middle of it.
+
+    Here's the thing though: we almost always listen to her taste.
+
+    Because why would I fight for Anuv Jain's Husn when we could be looking at each other's eyes, full of pure love, while her song plays instead?
+
+    (Okay, I would. But I let her win most of the time.)
+
+    We have a Spotify playlist that makes absolutely no sense to anyone else.
+
+    Random songs. No genre. No theme. No logic.
+
+    Just bombs of random emotions we threw in while playing antakshari or because one of us insisted this song has to be on the list right now.
+
+    Genuinely no one else could listen to that playlist and enjoy it.
+
+    It's chaos. It's ours.
+
+    And I miss those Apple Music sessions.
+
+    The ones where we'd just sit and let the music do the talking.
+
+    Let's do it tonight.`,
+    hint: `For all the songs we fought over, danced to, and got lost in.`
   }
 }
