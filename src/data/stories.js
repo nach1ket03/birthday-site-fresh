@@ -1030,7 +1030,7 @@ hint:`For the scent that carries everything.`
   21: {
     text: `From the very first impression, she's been the smartest person I know.
 
-    Not just academically though she's juggling MBA, CA , and CFA like it's somehow manageable when it absolutely isn't for most people.
+    Not just academically.
 
     Smart in all aspects of life. Sharp. Perceptive. The kind of person who figures things out, even when it takes time.
 
@@ -1074,7 +1074,7 @@ hint:`For the scent that carries everything.`
 
     Your career matters to me as much as mine does.
 
-    Actually, scratch that—sometimes it matters more. Because seeing you achieve what you've been working so hard for? Watching your face light up when you finally get there?
+    Actually, scratch that sometimes it matters more. Because seeing you achieve what you've been working so hard for? Watching your face light up when you finally get there?
 
     That's one of my major dreams.
 
