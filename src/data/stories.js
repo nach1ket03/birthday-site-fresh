@@ -1026,5 +1026,80 @@ hint:`For the scent that carries everything.`
 
     Let's do it tonight.`,
     hint: `For all the songs we fought over, danced to, and got lost in.`
+  },
+  21: {
+    text: `From the very first impression, she's been the smartest person I know.
+
+    Not just academically though she's juggling MBA, CA , and CFA like it's somehow manageable when it absolutely isn't for most people.
+
+    Smart in all aspects of life. Sharp. Perceptive. The kind of person who figures things out, even when it takes time.
+
+    But more than that, she's passionate.
+
+    About her career. About growth. About becoming the version of herself she's working toward.
+
+    And one of the major reasons I love her is this: she brings out the best in me.
+
+    All these years with her, she's taught me to be better in my career. To take it seriously. To not settle. To keep pushing even when it's hard.
+
+    We both love to grow together.
+
+    Not in competition. Not in comparison. Just... together. Side by side. Figuring it out as we go.
+
+    We've had rough phases in our careers. Moments where things felt uncertain or overwhelming or like we were both falling behind where we thought we'd be.
+
+    But here's what I've learned: handling it as a team changes everything.
+
+    The fall doesn't hit as hard when someone's there to catch you. When you're both committed to getting back up, dusting off, and trying again smarter, stronger, more determined than before.
+
+    And you? You're the moon.
+
+    You shine no matter what.
+
+    Even on the hard days when nothing seems to go right. Even when the grind feels endless and the results feel impossibly far away. Even when doubt creeps in and whispers that maybe it's too much.
+
+    You keep going.
+
+    You show up. You put in the hours. You don't quit.
+
+    And that's not just admirable it's powerful.
+
+    So here's what I need you to remember:
+
+    Be focused. The work you're putting in right now? It's building something. Every hour counts. Every effort adds up. Even when it doesn't feel like it.
+
+    Stay strong. You're capable of more than you think. You've already proven that a hundred times over. This is just one more challenge, and you've never been someone who backs down from those.
+
+    Keep grinding. The success you're working toward isn't a maybe. It's a when. And that when is getting closer every single day you refuse to give up.
+
+    Your career matters to me as much as mine does.
+
+    Actually, scratch that—sometimes it matters more. Because seeing you achieve what you've been working so hard for? Watching your face light up when you finally get there?
+
+    That's one of my major dreams.
+
+    Not as a spectator. As your partner. As someone who's been in the trenches with you, celebrating every win and learning from every setback.
+
+    We're going to keep working together. Harder. Better. Stronger.
+
+    Because that's what we do.
+
+    We grow. Together.
+
+    We push each other. We lift each other. We don't let each other quit when things get tough.
+
+    And we don't stop until we both get exactly where we're meant to be.
+
+    You're going to make it.
+
+    We're going to make it.
+
+    So keep your head up, stay locked in, and trust the process.
+
+    The moon always shines brightest after the darkest nights.
+
+    And you? You're about to light up the whole damn sky.`,
+    hint: `For every focused hour that gets us closer.
+`
   }
 }
