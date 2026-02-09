@@ -1136,7 +1136,7 @@ hint:`For the scent that carries everything.`
 वो जैसे आज है, वैसी ही रहे,
 और मैं उम्र भर उसके इश्क़ में ठहर जाए।
 
-<i>Ahahaha ik ik I'm not good at Hindi/Urdu writing but I legit wanted to try this for you. Not perfect but here it is, with all my dictionary's help. I hope it's at least understandable at least lmao 😭.
+<i>Ahahaha ik ik I'm not good at Hindi/Urdu writing but I legit wanted to try this for you. Not perfect but here it is, with all my dictionary's help. I hope it's at least understandable at least lmao😭.
 </i>`,
     hint: `Something small that stays close, like this feeling.`
   }
