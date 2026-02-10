@@ -1139,5 +1139,89 @@ hint:`For the scent that carries everything.`
 <i>Ahahaha ik ik I'm not good at Hindi/Urdu writing but I legit wanted to try this for you. Not perfect but here it is, with all my dictionary's help. I hope it's at least understandable at least lmao😭.
 </i>`,
     hint: `Something small that stays close, like this feeling.`
+  },
+  23: {
+    text: `It started with her cousin's color set.
+
+    She saw it. Got attracted to it. The kind of instant "I want that" feeling that happens when something just clicks.
+
+    She wanted one too.
+
+    And she got one. Similar set. A gift from him.
+
+    Now she paints during study breaks.
+
+    When she's bored. When her brain is fried from study material and she needs to do something else for a bit.
+
+    Just a quick break. A palette cleanser between subjects.
+
+    Except.
+
+    Here's the thing about her and painting: if she starts, she doesn't stop.
+
+    She'll say she's just doing a little bit. Just one section. Just filling in this part and then she'll get back to studying.
+
+    And then one section becomes two. Two becomes three. Three becomes "okay just let me finish this whole area and then I'll stop."
+
+    I'll tell her, "Ketki, enough now. Keep it and study."
+
+    She'll look up. "Only this much part and then I'll keep it. I just want to see how beautiful I painted."
+
+    Which, of course, means she's not keeping it yet.
+
+    She keeps going.
+
+    And here's where she gets sneaky:
+
+    She'll ask me, "Which color should I pick now?"
+
+    Like it's a privilege. Like I'm being included in the creative process.
+
+    "You have the privilege to choose."
+
+    So I'll pick a color.
+
+    Deliberately the wrong one. The one that absolutely will not go with the combination. The one that'll clash or look off or ruin the flow she's got going.
+
+    She knows. She always knows.
+
+    But she asks anyway. Just to see what I'll say. Just to mess with me while I'm trying to get her to stop procrastinating.
+
+    And then she ignores my suggestion entirely and picks the right color like she was always going to.
+
+    The painting grows. Slowly. Section by section. Break by break.
+
+    She'll finish coloring one part and show me.
+
+    "Ahhhaa, I got an artist girlfriend," I'll say.
+
+    She'll smile. Look at her work. Nod with full confidence.
+
+    "I know, right?"
+
+    No false modesty. No brushing it off. Just pure, unapologetic agreement.
+
+    Because yeah, she did paint that. And yeah, it does look good.
+
+    The painting grows. Slowly. Section by section. Break by break.
+
+    She's not rushing it. Not trying to finish it in one sitting.
+
+    It's just something that exists in the margins of her day. Something she comes back to when her brain needs a different kind of focus.
+
+    Something that doesn't ask anything of her except to pick colors and stay inside the lines.
+
+    And yeah, it becomes a distraction sometimes.
+
+    A very pretty, very time consuming distraction.
+
+    But also? It makes her happy.
+
+    And honestly, that's worth more than the extra thirty minutes of studying she's technically supposed to be doing.
+
+    Even if I'll never admit that to her.
+
+    Because then she'll never stop painting.`,
+    hint: `For study breaks that definitely won't stay "just five more minutes."`
   }
 }
