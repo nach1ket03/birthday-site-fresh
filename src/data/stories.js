@@ -1223,5 +1223,155 @@ hint:`For the scent that carries everything.`
 
     Because then she'll never stop painting.`,
     hint: `For study breaks that definitely won't stay "just five more minutes."`
+  },
+  24: {
+    text: `<b>Black and white.</b>
+
+    You must have not got it, but she definitely will.
+
+    Chess.
+
+    Chess is our thing.
+
+    Not casually. Not sometimes. Not "we play when we're bored."
+
+    It's ours. Fully. Possessively. The kind of thing that belongs to us in a way nothing else quite does.
+
+    I learned chess from my dad.
+
+    She learned playing with me.
+
+    And here's what I never expected: she'd get this good.
+
+    Like, genuinely good.
+
+    When we first started playing, it was obvious who had the advantage. I'd played for years. She was just figuring out how the pieces moved.
+
+    But she didn't stay there.
+
+    She learned. Fast. Picked up strategies. Started seeing the board differently. Started setting traps I didn't see coming.
+
+    And now?
+
+    Now she gives me tough fights. Real ones.
+
+    The kind where I actually have to focus. Where I can't afford to be casual or cocky or assume I'll win just because I've been playing longer.
+
+    I never expected that.
+
+    Never expected I'd lose to her.
+
+    But she puts me in defeat more often than I care to admit.
+
+    Not every game. But enough that it's not a fluke anymore. It's just... her being good.
+
+    Really good.
+
+    And as much as it kills me to say it she's earned every single win.
+
+    Well. Most of them.
+
+    Because here's my secret weapon: distraction.
+
+    When the game gets tough, when I can see she's about to corner me, when my strategy is falling apart, when checkmate is three moves away and I have no way out, I deploy it.
+
+    "Ketki, I am gonna lose now."
+
+    "What?"
+
+    "Nothing, just focus on the game."
+
+    Her concentration breaks. Just for a second. But that's all I need.
+
+    Or I'll start talking. Ask her a random question. Comment on something completely unrelated.
+
+    She'll look up. "What? I'm trying to focus."
+
+    "I know, I know. Your move."
+
+    And somehow, miraculously, I survive another few turns.
+
+    Does it work every time? No.
+
+    Does she call me out on it? Absolutely.
+
+    "You're distracting me on purpose!"
+
+    "I would never."
+
+    "You literally just did."
+
+
+    "Prove it."
+
+    Do I feel bad about it? Not even a little.
+
+    She's gotten too good. I need every advantage I can get.
+
+    We're competitive about it. Stupidly competitive.
+
+    Every game matters. Every move is analyzed. Every win is celebrated like a championship. Every loss is contested with the passion of someone who absolutely cannot accept defeat.
+
+    We play a lot.
+
+    Sometimes to get out of stress when life feels too heavy and we need something to focus on that isn't exams or deadlines or the chaos of everything else.
+
+    Sometimes to stress ourselves more because apparently we enjoy the tension, the pressure, the mental warfare of trying to outthink each other.
+
+    But no matter what, we play.
+
+    Anywhere. Everywhere.
+
+    At home. In cafes. On our phones when we're apart. When we're together.
+
+    It doesn't matter where. The game always happens.
+
+    She takes it seriously. So do I.
+
+    We'll sit across from each other, board between us, and the rest of the world just... fades.
+
+    No distractions. Just the pieces and the moves and the quiet intensity of trying to win.
+
+    And when she wins? Oh, she makes sure I know.
+
+    "Ahmmm."
+
+    Said with the kind of satisfaction that can only come from thoroughly dismantling my strategy and watching me realize too late that I walked right into it.
+
+    And when I win?
+
+    She has her excuses ready.
+
+    "You distracted me."
+
+    "You were literally silent."
+
+    "Your energy was distracting."
+
+    And you know what? She's right sometimes.
+
+    Because I absolutely do distract her.
+
+    On purpose.
+
+    And I love it.
+
+    The accountability is flexible. The competition is not.
+
+    Chess isn't just a game for us.
+
+    It's a language. A ritual. A way of being present with each other that doesn't require words.
+
+    It's ours.
+
+    Black VS white.
+
+    Simple. Complicated. Endlessly replayable.
+
+    Just like us.
+
+
+    <i>Aaja, bhidle. Fir se karta humble karta hoon tujhe.</i>`,
+    hint: ``
   }
 }
