@@ -1373,5 +1373,92 @@ hint:`For the scent that carries everything.`
 
     <i>Aaja, bhidle. Fir se karta humble karta hoon tujhe.</i>`,
     hint: ``
+  },
+  25: {
+    text: `<b>Well, today I don't have a story for her.
+
+    Just a message. And a reminder.</b>
+
+
+    No matter what, I am always there for you.
+
+    You are my precious gem.
+
+    Even if the world gets cruel to you. Even if no one's able to make time for you. Even if no one's getting what you're trying to say, your Nachiket will always listen to you.
+
+    You are never alone.
+
+    I know the battles you fight alone. The ones you don't talk about. The ones you handle quietly because that's what you do,you handle things.
+
+    I understand every single time you try to be a bit more understanding, a bit more patient, a bit more accommodating. Every time you adjust yourself to make things easier for someone else, even when no one's doing the same for you.
+
+    I see it. I notice. And I want you to know, it doesn't go unnoticed.
+
+    But here's the thing:
+
+    With the world outside, you have to be strong. You have to be responsible. You have to show up as the adult, the capable one, the person who has it together.
+
+    You're juggling CA, CFA, MBA. You're managing family. You're being there for people. You're carrying more than most people your age even think about.
+
+    And you do it without complaining. Without making it anyone else's problem.
+
+    But in my eyes? You're always a kid.
+
+    And you're allowed to be.
+
+    You don't have to be strong all the time. You don't have to have all the answers. You don't have to carry everything on your own.
+
+    With me, you can just... be.
+
+    Tired. Frustrated. Overwhelmed. Confused. Whatever you're feeling, you're allowed to feel it without having to fix it immediately or explain it perfectly.
+
+    Your Nachiket will always listen. Always understand. Always be here.
+
+    Doesn't matter how difficult things get for us. Doesn't matter what challenges we're facing or how complicated life becomes or how rough the phase is right now.
+
+    Never ever forget: you are always gonna be my very first priority.
+
+    Not sometimes. Not when it's convenient. Always.
+
+    Things might be tough at the time I'm writing this. I know that. You know that. We're both in the middle of our own storms, trying to figure things out, trying to stay afloat.
+
+    But trust me you are destined for the best place.
+
+    The success you're working toward? It's coming. The peace you deserve? You'll find it. The recognition for everything you've been grinding for? It's on its way.
+
+    You just have to keep going. Keep showing up. Keep being you.
+
+    I just want to say: your Nachiket is so so proud of who you are.
+
+    Not just for what you achieve. For who you are.
+
+    For the way you care about people even when they don't deserve it. For the way you keep trying even when things feel impossible. For the way you stay kind in a world that doesn't always return that kindness.
+
+    I always will be proud of you.
+
+    You're a person who lives up to your responsibilities. Who shows up even when it's hard. Who keeps going even when no one's watching. Who doesn't quit even when quitting would be easier.
+
+    And God will always be kinder to you.
+
+    Because you deserve that kindness.
+
+    You deserve every good thing coming your way. Every win. Every moment of peace. Every success you've been fighting for.
+
+    So on the days when it feels too heavy when the grind feels endless, when you're tired, when you wonder if it's worth it come back to this.
+
+    Read it again.
+
+    Remember:
+
+    You are never alone.
+
+    You are always my priority.
+
+    You are destined for greatness.
+
+    And your Nachiket is proud of you.
+
+    Always.`,
+    hint: `For the days when you need to hear it most.`
   }
 }
