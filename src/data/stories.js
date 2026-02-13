@@ -1460,5 +1460,108 @@ hint:`For the scent that carries everything.`
 
     Always.`,
     hint: `For the days when you need to hear it most.`
+  },
+  26: {
+    text: `She's a proper dominating girlfriend.
+
+    Not in the way that sounds. She doesn't cage me. Doesn't control. Doesn't restrict.
+
+    But she's a person who is willing to lead. Who loves to lead. Who loves to take charge and execute things her way.
+
+    And honestly? I'm at my best when she gives me orders.
+
+    "Nachiket, do this like this."
+
+    Said with full confidence. Full authority. Zero hesitation.
+
+    Why wouldn't I listen when she tells me things with that kind of boldness?
+
+    "Your grace on it."
+
+    She doesn't ask. She instructs. And somehow that works better than any polite request ever could.
+
+    It's not bossy. It's just... her knowing what she wants and saying it clearly. No second-guessing. No softening the edges to make it sound nicer.
+
+    Just direct. Confident. Unapologetic about taking the lead.
+
+    And I love that about her.
+
+    This is my kind of feminism.
+
+    Not the kind where you just talk about equality or post quotes about being strong. The kind where you actually do it. Where you lead without asking permission. Where you take charge because you can, and you're good at it.
+
+    She doesn't perform empowerment. She just lives it.
+
+    Most people tiptoe around what they want. Phrase things as suggestions. Ask permission when they should just state their preference.
+
+    Not her.
+
+    She knows her mind. Knows what works. And she's not afraid to say it out loud.
+
+    When we're doing something together cooking, planning, figuring out logistics—she'll take charge without announcing it.
+
+    Just starts making decisions. Starts organizing. Starts directing.
+
+    "You do this part. I'll handle that. We'll meet in the middle."
+
+    Clean. Efficient. No room for confusion.
+
+    And I fall in line. Happily.
+
+    Of course I can lead. I do, when it makes sense. But when she's in charge?
+
+    She's my boss. I have to listen.
+
+    And I want to.
+
+    Because there's something deeply attractive about someone who knows what they're doing and doesn't need validation to do it.
+
+    I just can't explain how adorable she looks when she's being dominant.
+
+    The confidence. The clarity. The way she gives an instruction and just knows it'll be followed.
+
+    It's my kind of turn on. Honestly.
+
+    Ahahaha.
+
+    She doesn't lead to prove a point. She leads because it's natural to her. Because she's good at it. Because things run smoother when she's in charge.
+
+    And I'm more than okay with that.
+
+    Actually, I'm better than okay with it.
+
+    I thrive in it.
+
+    Some people need to be in control all the time. Need to make every decision. Need to feel like they're steering.
+
+    I don't.
+
+    I'm happiest when she's leading and I'm following her vision. When she's telling me what to do and I'm executing it exactly how she wants.
+
+    "Nachiket, do it like this."
+
+    "Yes, ma'am."
+
+    No resistance. No ego. Just trust that she knows what she's talking about.
+
+    Because she does.
+
+    She's smart. Sharp. Sees things clearly. Makes decisions quickly.
+
+    And when she's in charge? Things just work.
+
+    So yeah.
+
+    She's dominating. In the best possible way.
+
+    The kind that doesn't diminish me. The kind that actually makes me better.
+
+    The kind that's adorable and attractive and exactly what I didn't know I needed.
+
+    Because I'm at my best when I'm following her lead.
+
+
+    <b>Be like this. Keep this confidence. It suits you and differs you from the world.</b>`,
+    hint: `For the one who's always in charge (and looks damn good doing it).`
   }
 }
