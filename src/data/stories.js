@@ -1498,7 +1498,7 @@ hint:`For the scent that carries everything.`
 
     She knows her mind. Knows what works. And she's not afraid to say it out loud.
 
-    When we're doing something together cooking, planning, figuring out logistics—she'll take charge without announcing it.
+    When we're doing something together cooking, planning, figuring out logistics, she'll take charge without announcing it.
 
     Just starts making decisions. Starts organizing. Starts directing.
 
