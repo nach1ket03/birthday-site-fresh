@@ -1480,7 +1480,7 @@ hint:`For the scent that carries everything.`
 
     She doesn't ask. She instructs. And somehow that works better than any polite request ever could.
 
-    It's not bossy. It's just... her knowing what she wants and saying it clearly. No second-guessing. No softening the edges to make it sound nicer.
+    It's not bossy. It's just... her knowing what she wants and saying it clearly. No second guessing. No softening the edges to make it sound nicer.
 
     Just direct. Confident. Unapologetic about taking the lead.
 
