@@ -1628,5 +1628,100 @@ hint:`For the scent that carries everything.`
   <i>Gimbap wants the ramen treat asap, Kimbap.</i>`,
 hint: `For the date you still owe me (and all the ones we've already had).
 `
+  },
+  28: {
+    text:`She has a zoo.
+
+    Not officially. But effectively.
+
+    One dog. Four cats. All living in the same house. All demanding attention in their own specific ways.
+
+    Let me introduce them properly:
+
+    <b>Jack</b> the man of the house. The most mature. The most understanding. Always adjusting with his other species siblings even though he's technically a different species and could pull rank if he wanted to.
+
+    He's a danger for people outside. Protective. Alert. Not to be messed with.
+
+    But inside? He's more than a child to Smita kaku. More babied than her actual human kids.
+
+    And he accepts this with grace. Because Jack is a gentleman.
+
+    <b>Simba</b> the most possessive one.
+
+    He's claimed Ketki's right hand. That's his spot. His territory. His person.
+
+    Until someone else gets too close.
+
+    Then he either gets aggressive ears back, mood shift, "back off" energy or he just leaves. Finds some other place to hang out. Refuses to share.
+
+    (I used to be jealous of him too. A cat. Getting more of her attention than me. It was embarrassing.)
+
+    <b>Rossie</b> the average girlie.
+
+    Most of the time she's cleaning herself. Grooming. Making sure she looks perfect because that's the priority.
+
+    The rest of the time? She's being a princess. Existing beautifully. Accepting attention when it's offered. Living her best low effort, high maintenance life.
+
+    <b>Bacchu</b> the shy one.
+
+    The grooming cat of the house. The most introverted. Still opening up. Still figuring out if this whole "family" thing is safe.
+
+    Keeps hiding under the cupboard. Comes out when it's quiet. When no one's being too loud or demanding.
+
+    The quiet observer. The one you have to earn trust with slowly.
+
+    Here's the thing about her and these pets:
+
+    I have never seen any person put this much effort into animals.
+
+    She probably couldn't do this much for her own human kids someday. But these pets? She takes care of them way too perfectly.
+
+    Feeds them on time. Notices when something's off. Knows each of their moods and preferences. Gives Jack his space. Lets Simba have his possessive moments. Pampers Rossie.
+
+    It's not just "having pets." It's actually caring for them. Deeply. Intentionally.
+
+    And it's really adorable to see.
+
+    The way she talks to them. The way she adjusts her whole day around their needs. The way she'll stop what she's doing if one of them needs attention.
+
+    She does so much for these innocent souls.
+
+    More than most people would. More than most people even think to.
+
+    And they know it. You can tell.
+
+    Jack follows her because he trusts her. Simba claims her because she's his safe person. Rossie lets her guard down because she knows she's loved. Bacchu is slowly coming out of hiding because she's patient enough to wait.
+
+    She spends most of her time with them.
+
+    Not in the "I'm a pet person who posts about them constantly" way. Just in the quiet, everyday way where they're always around. On her bed. Near her desk. Claiming her lap when she's sitting still long enough.
+
+    They're part of her routine. Part of her space. Part of the chaos of her room that somehow makes sense to her even if it looks like a mess to everyone else.
+
+    They're her reset button. Her small grounding points in a day that's otherwise packed with studying and responsibilities and stress.
+
+    When her brain gets too loud when the CA material feels overwhelming, she'll just sit with them for a bit. Pet Jack. Let Simba claim her hand.
+
+    They don't ask her to perform. Don't need her to be productive or smart or put together.
+
+    They just want her there. Present. Still.
+
+    And she gives them that.
+
+    Because sometimes the best thing you can do for yourself is sit on the floor with a dog and cats each with their own personality, their own needs, their own way of loving you and let the rest of the world wait.
+
+    Her room is full of them. Their toys. Their fur. Their presence.
+
+    It's chaotic. But it's hers.
+
+    And they're part of what makes it feel like home.
+
+
+    <b>So if no one tells you this: you are most yourself when you take care of them.
+
+    And that kind of care? That's God's work.
+
+    Keep doing it. So proud of you.</b>`,
+    hint: `For the zoo that lives in her room.`
   }
 }
