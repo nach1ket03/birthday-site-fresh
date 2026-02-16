@@ -1723,5 +1723,85 @@ hint: `For the date you still owe me (and all the ones we've already had).
 
     Keep doing it. So proud of you.</b>`,
     hint: `For the zoo that lives in her room.`
+  },
+  29: {
+    text: `i never believed in destiny
+thought love was just a word we say
+when nights grow soft and lonely hearts
+have nothing wiser left to pray
+
+but life, it laughs at certainty
+it bends the roads we think we know
+one random day, one passing glance
+and suddenly a different flow
+
+you weren’t a prophecy written in stars
+no thunder cracked the sky above
+just ordinary air between two souls
+quietly conspiring into love
+
+and now i wake with your name
+resting gently on my chest
+like the safest place my restless heart
+has ever dared to rest
+
+i never thought i’d love this deep
+this fiercely without disguise
+i never knew one human being
+could hold whole oceans in her eyes
+
+there is a cathedral in my ribcage now
+you built it without a sound
+i who never spoke of my own wounds
+now tell you when i’m slightly down
+
+a man who swallowed every ache
+who wore his silence like a crown
+now complains of paper cuts
+just to hear you calm me down
+
+i who never bowed to heaven
+never folded trembling hands
+now pause before each temple gate
+as if love finally understands
+
+i feared no death, i chased no dawn
+lived reckless, sharp, untamed
+but now i want a thousand mornings
+with your laughter softly named
+
+how strange that love can discipline
+what pride could never move
+it doesn’t cage the wild within
+it teaches it to soothe
+
+you are the reason storms grow still
+the reason rage turns mild
+the reason a once unbreakable man
+dares again to be a child
+
+so when they ask why love exists
+why hearts are built this wide
+i’ll say to carve a better man
+from all we try to hide
+
+to make us gentle without shame
+to make us brave without demand
+to place a universe of meaning
+in the holding of one hand
+
+i met you like a coincidence
+a chapter i had not planned
+but now each breath i take begins
+and ends inside your hand
+
+if this is destiny disguised as chance
+then let the world pretend
+for loving you has made me more
+than i have ever been
+
+<i>Well, this is one of the most emotionally written things by me. So always keep it with you.
+</i>`,
+    hint: `Small things to make everything yours (like you did to me).`
   }
 }
