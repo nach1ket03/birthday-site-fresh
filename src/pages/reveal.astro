@@ -1,18 +1,25 @@
 ---
+// src/pages/reveal.astro
 import Layout from '../layouts/Layout.astro';
-import RevealFeed from '../components/RevealFeed';
+import BirthdayCelebration from '../components/BirthdayCelebration.jsx';
 ---
 
-<Layout title="The Reveal">
-  <main>
-    <div style={{ marginBottom: 40, textAlign: 'center' }}>
-      <h1>The Reveal</h1>
+<Layout title="Happy Birthday!">
+  <main style="
+    display: flex; 
+    flex-direction: column; 
+    align-items: center; 
+    justify-content: center; 
+    min-height: 60vh;
+  ">
+    
+    <BirthdayCelebration client:only="react" />
+
+    <div style="margin-top: 60px; text-align: center; animation: fadeUp 1s 0.8s forwards; opacity: 0;">
+        <a href="/" style="font-size: 0.9rem; opacity: 0.6; text-decoration: none;">
+          &larr; Return Home
+        </a>
     </div>
 
-    <RevealFeed client:only="react" />
-
-    <div style="margin-top: 40px; text-align: center;">
-        <a href="/" style="font-size: 0.9rem; opacity: 0.6;">&larr; Home</a>
-    </div>
   </main>
 </Layout>

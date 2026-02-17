@@ -1803,5 +1803,66 @@ than i have ever been
 <i>Well, this is one of the most emotionally written things by me. So always keep it with you.
 </i>`,
     hint: `Small things to make everything yours (like you did to me).`
+  },
+  30: {
+    text: `thank you
+for being who you are
+without trying to be more,
+without trying to be less.
+
+for the way you exist
+so naturally,
+like the sky doesn’t try to be blue
+it just is
+and somehow that is enough
+for the whole world.
+
+you deserve more
+than the doubts you hide behind your smile,
+more than the way you shrink your victories
+to make others comfortable,
+more than the apologies
+you whisper for things
+that were never your fault.
+
+you deserve a love
+that chooses you loudly,
+a life that opens doors
+before you even knock,
+a mirror that finally shows you
+what everyone else already sees.
+
+you don’t see it
+the softness in your strength,
+the light in your stubborn hope,
+the way your presence
+makes ordinary days feel
+like something worth remembering.
+
+thank you
+for your patience,
+for your quiet courage,
+for the way you care
+like it’s second nature
+and not something rare.
+
+thank you
+for being the kind of person
+the world tries to harden
+but somehow fails.
+
+i hope one day
+you look at yourself
+the way i look at you
+with certainty,
+with admiration,
+with no hesitation at all.
+
+until then,
+let me remind you:
+
+you are more than you think.
+so much more.`,
+    hint: ``
   }
 }
